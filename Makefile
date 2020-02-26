@@ -4,9 +4,9 @@ default: test
 .PHONY: test
 test:
 	$(info validating mixins list is well-formed JSON)
-	@cat mixins/index.json | jq > /dev/null
+	@cat mixins/index.json | jq -r '.' > /dev/null
 	$(info validating plugins list is well-formed JSON)
-	@cat plugins/index.json | jq > /dev/null
+	@cat plugins/index.json | jq -r '.' > /dev/null
 
 .PHONY: publish
 publish:
