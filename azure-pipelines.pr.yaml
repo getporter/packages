@@ -1,0 +1,14 @@
+trigger: none
+pr: 
+  - master
+
+pool:
+  vmImage: 'Ubuntu 16.04'
+
+stages:
+- stage: Test
+  jobs:
+  - job: test_lists
+    steps:
+    - script: make test
+      displayName: 'Test Package Lists'
