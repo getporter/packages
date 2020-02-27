@@ -48,6 +48,12 @@
     "URL": "https://github.com/squillace/porter-helm3/releases/download"
   },
   {
+    "name": "packer",
+    "author": "Vaughn Dice",
+    "description": "A mixin for using the packer cli",
+    "URL": "https://vdice.github.io/porter-packer/atom.xml"
+  },
+  {
     "name": "kubernetes",
     "author": "Porter Authors",
     "description": "A mixin for using the kubectl cli",
