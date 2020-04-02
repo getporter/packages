@@ -24,6 +24,12 @@
     "URL": "https://github.com/deislabs/porter-cowsay/releases/download"
   },
   {
+    "name": "docker-compose",
+    "author": "Porter Authors",
+    "description": "A mixin for using the docker-compose cli",
+    "URL": "https://cdn.porter.sh/mixins/atom.xml"
+  },
+  {
     "name": "exec",
     "author": "Porter Authors",
     "description": "A mixin for executing shell commands",
