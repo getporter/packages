@@ -48,6 +48,12 @@
     "URL": "https://github.com/squillace/porter-helm3/releases/download"
   },
   {
+    "name": "helm3",
+    "author": "Mohamed Chorfa",
+    "description": "Porter Helm3 Mixin",
+    "URL": "https://mchorfa.github.com/porter-helm3/atom.xml"
+  },
+  {
     "name": "packer",
     "author": "Vaughn Dice",
     "description": "A mixin for using the packer cli",
