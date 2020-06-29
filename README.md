@@ -10,8 +10,8 @@ when returning results for `porter mixins search` and `porter plugins search`.
 There are two package directories, one for [mixins](https://porter.sh/mixins) and
 one for [plugins](https://porter.sh/plugins):
 
-* [Mixin Directory](https://github.com/deislabs/porter-packages/blob/master/mixins/index.json)
-* [Plugin Directory](https://github.com/deislabs/porter-packages/blob/master/plugins/index.json)
+* [Mixin Directory](https://github.com/deislabs/porter-packages/blob/main/mixins/index.json)
+* [Plugin Directory](https://github.com/deislabs/porter-packages/blob/main/plugins/index.json)
 
 To list your mixin or plugin for others to see, clone the repository and create
 a new JSON entry just like the others, with details updated to reflect your offering.
