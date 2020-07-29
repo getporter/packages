@@ -82,5 +82,11 @@
     "author": "Porter Authors",
     "description": "A mixin for using the terraform cli",
     "URL": "https://cdn.porter.sh/mixins/atom.xml"
+  },
+  {
+    "name": "docker",
+    "author": "Porter Authors",
+    "description": "A mixin for using the docker cli",
+    "URL": "https://cdn.porter.sh/mixins/atom.xml"
   }
 ]
