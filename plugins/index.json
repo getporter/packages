@@ -10,5 +10,11 @@
     "author": "REDDY PRASAD",
     "description": "Integrates Porter with Hashicorp services. Let you secure your bundle's secrets in Hashicorp's vault.",
     "URL": "https://github.com/dev-drprasad/porter-hashicorp-plugins/releases/download/feed/atom.xml"
+  },
+  {
+    "name": "kubernetes",
+    "author": "Porter Authors",
+    "description": "Integrates Porter with Kubernetes. Store Porter's data and your bundle's secrets in Kubernetes Secret Resources.",
+    "URL": "https://cdn.porter.sh/plugins/atom.xml"
   }
 ]
