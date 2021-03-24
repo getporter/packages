@@ -14,6 +14,6 @@ ifndef AZURE_STORAGE_CONNECTION_STRING
 	$(error AZURE_STORAGE_CONNECTION_STRING must be set in order to publish)
 endif
 	$(info uploading mixins list)
-	@az storage blob upload -c porter -n mixins/index.json -f mixins/index.json
+	@az storage blob upload -c porter -n mixins/index.json -f mixins/index.json --content-cache-control max-age=300
 	$(info uploading plugins list)
-	@az storage blob upload -c porter -n plugins/index.json -f plugins/index.json
+	@az storage blob upload -c porter -n plugins/index.json -f plugins/index.json --content-cache-control max-age=300
