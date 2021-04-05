@@ -1,9 +1,10 @@
 # Porter Packages
 
-This repository contains package listings for mixins and plugins available for Porter.
+This repository contains package listings for mixins and plugins available for Porter, including those created by the community.
+The lists are consumed by the [Porter CLI](https://porter.sh/install) when returning results for `porter mixins search` and `porter plugins search`.
 
-The lists are consumed by the [Porter CLI](https://porter.sh/install)
-when returning results for `porter mixins search` and `porter plugins search`.
+Anyone can create a mixin and list it on Porters search listings.
+We will lightly vet that the listing works, however the Porter Authors and Project are not responsible for these packages and make no assurances.
 
 ## Add a package listing
 
@@ -36,3 +37,16 @@ To ensure proper formatting of the edited list, `make test` can be run.
 
 When ready, open up a pull request with the updated directory.  Once merged,
 your mixin or plugin listing will be broadcast to the world!
+
+## Official Package Feeds
+
+The atom feeds for the official Porter mixins and plugins are also located in this repository.
+These feeds are used to install the latest version of an official mixin.
+For example, `porter mixins install NAME` by default looks for the mixin in these official feeds, unless you specify --url or --feed-url.
+
+The canonical location to these feeds are:
+
+* https://cdn.porter.sh/mixins/atom.xml
+* https://cdn.porter.sh/plugins/atom.xml
+
+Do not submit a pull request updating the atom feeds, they are updated automatically when new releases are published for official Porter mixins and plugins.
