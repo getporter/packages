@@ -1,0 +1,102 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://porter.sh</id>
+    <title>Porter Plugins</title>
+    <updated>2021-03-31T19:11:34Z</updated>
+    <link rel="self" href="https://cdn.porter.sh/plugins/atom.xml"/>
+    <author>
+        <name>Porter Authors</name>
+        <uri>https://porter.sh</uri>
+    </author>
+    <category term="azure"/>
+    <category term="kubernetes"/>
+    <entry>
+        <id>https://cdn.porter.sh/plugins/kubernetes/canary</id>
+        <title>kubernetes @ canary</title>
+        <updated>2021-03-31T19:11:34Z</updated>
+        <category term="kubernetes"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/plugins/kubernetes/canary/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/kubernetes/canary/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/kubernetes/canary/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/plugins/kubernetes/v0.1.0</id>
+        <title>kubernetes @ v0.1.0</title>
+        <updated>2021-03-23T22:49:48Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.1.0</content>
+        <link rel="download" href="https://cdn.porter.sh/plugins/kubernetes/v0.1.0/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/kubernetes/v0.1.0/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/kubernetes/v0.1.0/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/plugins/azure/canary</id>
+        <title>azure @ canary</title>
+        <updated>2021-03-04T16:39:32Z</updated>
+        <category term="azure"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/plugins/azure/v0.11.0</id>
+        <title>azure @ v0.11.0</title>
+        <updated>2020-12-08T21:55:15Z</updated>
+        <category term="azure"/>
+        <content>v0.11.0</content>
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v0.11.0/azure-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v0.11.0/azure-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v0.11.0/azure-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/plugins/azure/v0.10.0</id>
+        <title>azure @ v0.10.0</title>
+        <updated>2020-11-19T22:26:00Z</updated>
+        <category term="azure"/>
+        <content>v0.10.0</content>
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v0.10.0/azure-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v0.10.0/azure-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v0.10.0/azure-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/plugins/azure/v0.9.1</id>
+        <title>azure @ v0.9.1</title>
+        <updated>2020-09-08T18:50:17Z</updated>
+        <category term="azure"/>
+        <content>v0.9.1</content>
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v0.9.1/azure-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v0.9.1/azure-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v0.9.1/azure-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/plugins/azure/v0.9.0</id>
+        <title>azure @ v0.9.0</title>
+        <updated>2020-08-25T22:35:52Z</updated>
+        <category term="azure"/>
+        <content>v0.9.0</content>
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v0.9.0/azure-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v0.9.0/azure-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v0.9.0/azure-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/plugins/azure/v0.3.0</id>
+        <title>azure @ v0.3.0</title>
+        <updated>2020-07-07T17:59:32Z</updated>
+        <category term="azure"/>
+        <content>v0.3.0</content>
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v0.3.0/azure-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v0.3.0/azure-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v0.3.0/azure-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/plugins/azure/v0.2.0-beta.1</id>
+        <title>azure @ v0.2.0-beta.1</title>
+        <updated>2020-02-11T22:04:52Z</updated>
+        <category term="azure"/>
+        <content>v0.2.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v0.2.0-beta.1/azure-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v0.2.0-beta.1/azure-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v0.2.0-beta.1/azure-windows-amd64.exe" />
+    </entry>
+</feed>

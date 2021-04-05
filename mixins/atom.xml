@@ -1,0 +1,1901 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://porter.sh/mixins</id>
+    <title>Porter Mixins</title>
+    <updated>2021-03-30T17:56:06Z</updated>
+    <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
+    <author>
+        <name>Porter Authors</name>
+        <uri>https://porter.sh/mixins</uri>
+    </author>
+    <category term="arm"/>
+    <category term="aws"/>
+    <category term="az"/>
+    <category term="azure"/>
+    <category term="docker"/>
+    <category term="docker-compose"/>
+    <category term="exec"/>
+    <category term="gcloud"/>
+    <category term="helm"/>
+    <category term="kubernetes"/>
+    <category term="terraform"/>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.37.0</id>
+        <title>exec @ v0.37.0</title>
+        <updated>2021-03-30T17:56:06Z</updated>
+        <category term="exec"/>
+        <content>v0.37.0</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.37.0/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.37.0/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.37.0/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/canary</id>
+        <title>exec @ canary</title>
+        <updated>2021-03-30T17:08:50Z</updated>
+        <category term="exec"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.36.0</id>
+        <title>exec @ v0.36.0</title>
+        <updated>2021-03-23T20:24:18Z</updated>
+        <category term="exec"/>
+        <content>v0.36.0</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.36.0/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.36.0/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.36.0/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.35.0</id>
+        <title>exec @ v0.35.0</title>
+        <updated>2021-03-18T17:04:29Z</updated>
+        <category term="exec"/>
+        <content>v0.35.0</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.35.0/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.35.0/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.35.0/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.34.4</id>
+        <title>exec @ v0.34.4</title>
+        <updated>2021-02-25T23:54:50Z</updated>
+        <category term="exec"/>
+        <content>v0.34.4</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.34.4/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.34.4/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.34.4/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.34.3</id>
+        <title>exec @ v0.34.3</title>
+        <updated>2021-02-25T17:30:08Z</updated>
+        <category term="exec"/>
+        <content>v0.34.3</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.34.3/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.34.3/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.34.3/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.28.3</id>
+        <title>kubernetes @ v0.28.3</title>
+        <updated>2021-02-25T15:40:44Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.28.3</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.28.3/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.28.3/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.28.3/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/canary</id>
+        <title>kubernetes @ canary</title>
+        <updated>2021-02-25T15:25:57Z</updated>
+        <category term="kubernetes"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.34.2</id>
+        <title>exec @ v0.34.2</title>
+        <updated>2021-02-24T18:21:51Z</updated>
+        <category term="exec"/>
+        <content>v0.34.2</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.34.2/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.34.2/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.34.2/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.34.0</id>
+        <title>exec @ v0.34.0</title>
+        <updated>2021-02-22T17:20:59Z</updated>
+        <category term="exec"/>
+        <content>v0.34.0</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.34.0/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.34.0/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.34.0/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.33.1</id>
+        <title>exec @ v0.33.1</title>
+        <updated>2021-02-16T21:51:36Z</updated>
+        <category term="exec"/>
+        <content>v0.33.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.33.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.33.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.33.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.33.0</id>
+        <title>exec @ v0.33.0</title>
+        <updated>2021-02-04T15:32:17Z</updated>
+        <category term="exec"/>
+        <content>v0.33.0</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.33.0/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.33.0/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.33.0/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.32.0</id>
+        <title>exec @ v0.32.0</title>
+        <updated>2021-01-27T00:28:56Z</updated>
+        <category term="exec"/>
+        <content>v0.32.0</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.32.0/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.32.0/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.32.0/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.31.2</id>
+        <title>exec @ v0.31.2</title>
+        <updated>2021-01-15T21:32:18Z</updated>
+        <category term="exec"/>
+        <content>v0.31.2</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.31.2/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.31.2/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.31.2/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.31.1</id>
+        <title>exec @ v0.31.1</title>
+        <updated>2021-01-15T00:19:44Z</updated>
+        <category term="exec"/>
+        <content>v0.31.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.31.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.31.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.31.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.31.0</id>
+        <title>exec @ v0.31.0</title>
+        <updated>2021-01-13T19:32:16Z</updated>
+        <category term="exec"/>
+        <content>v0.31.0</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.31.0/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.31.0/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.31.0/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/helm/v0.13.3</id>
+        <title>helm @ v0.13.3</title>
+        <updated>2020-12-21T22:21:10Z</updated>
+        <category term="helm"/>
+        <content>v0.13.3</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.13.3/helm-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.13.3/helm-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.13.3/helm-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/helm/canary</id>
+        <title>helm @ canary</title>
+        <updated>2020-12-21T22:10:28Z</updated>
+        <category term="helm"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/canary/helm-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/canary/helm-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/canary/helm-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/az/canary</id>
+        <title>az @ canary</title>
+        <updated>2020-12-21T20:41:07Z</updated>
+        <category term="az"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.30.1</id>
+        <title>exec @ v0.30.1</title>
+        <updated>2020-11-05T19:25:04Z</updated>
+        <category term="exec"/>
+        <content>v0.30.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.30.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.30.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.30.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.30.0</id>
+        <title>exec @ v0.30.0</title>
+        <updated>2020-10-29T21:56:01Z</updated>
+        <category term="exec"/>
+        <content>v0.30.0</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.30.0/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.30.0/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.30.0/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/terraform/canary</id>
+        <title>terraform @ canary</title>
+        <updated>2020-10-21T19:25:21Z</updated>
+        <category term="terraform"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/canary/terraform-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/canary/terraform-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/canary/terraform-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/terraform/v0.6.1</id>
+        <title>terraform @ v0.6.1</title>
+        <updated>2020-10-08T15:56:16Z</updated>
+        <category term="terraform"/>
+        <content>v0.6.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.6.1/terraform-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.6.1/terraform-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.6.1/terraform-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.29.1</id>
+        <title>exec @ v0.29.1</title>
+        <updated>2020-09-23T17:34:06Z</updated>
+        <category term="exec"/>
+        <content>v0.29.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.29.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.29.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.29.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/docker-compose/canary</id>
+        <title>docker-compose @ canary</title>
+        <updated>2020-09-21T15:15:53Z</updated>
+        <category term="docker-compose"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/canary/docker-compose-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/canary/docker-compose-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/canary/docker-compose-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/docker/canary</id>
+        <title>docker @ canary</title>
+        <updated>2020-09-21T15:15:33Z</updated>
+        <category term="docker"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker/canary/docker-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker/canary/docker-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker/canary/docker-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/arm/canary</id>
+        <title>arm @ canary</title>
+        <updated>2020-09-21T15:14:08Z</updated>
+        <category term="arm"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/gcloud/canary</id>
+        <title>gcloud @ canary</title>
+        <updated>2020-09-21T15:01:01Z</updated>
+        <category term="gcloud"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/aws/canary</id>
+        <title>aws @ canary</title>
+        <updated>2020-09-21T15:00:38Z</updated>
+        <category term="aws"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.29.0</id>
+        <title>exec @ v0.29.0</title>
+        <updated>2020-09-10T14:53:04Z</updated>
+        <category term="exec"/>
+        <content>v0.29.0</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.29.0/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.29.0/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.29.0/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.28.1</id>
+        <title>kubernetes @ v0.28.1</title>
+        <updated>2020-08-27T18:04:33Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.28.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.28.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.28.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.28.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.28.1</id>
+        <title>exec @ v0.28.1</title>
+        <updated>2020-08-27T18:03:36Z</updated>
+        <category term="exec"/>
+        <content>v0.28.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.28.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.28.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.28.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.28.0</id>
+        <title>kubernetes @ v0.28.0</title>
+        <updated>2020-08-25T21:31:26Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.28.0</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.28.0/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.28.0/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.28.0/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.28.0</id>
+        <title>exec @ v0.28.0</title>
+        <updated>2020-08-25T21:30:28Z</updated>
+        <category term="exec"/>
+        <content>v0.28.0</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.28.0/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.28.0/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.28.0/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/helm/v0.13.2</id>
+        <title>helm @ v0.13.2</title>
+        <updated>2020-08-21T20:02:41Z</updated>
+        <category term="helm"/>
+        <content>v0.13.2</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.13.2/helm-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.13.2/helm-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.13.2/helm-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/docker-compose/v0.2.0</id>
+        <title>docker-compose @ v0.2.0</title>
+        <updated>2020-08-20T16:42:42Z</updated>
+        <category term="docker-compose"/>
+        <content>v0.2.0</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/v0.2.0/docker-compose-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/v0.2.0/docker-compose-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/v0.2.0/docker-compose-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/helm/v0.13.1</id>
+        <title>helm @ v0.13.1</title>
+        <updated>2020-08-18T19:52:53Z</updated>
+        <category term="helm"/>
+        <content>v0.13.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.13.1/helm-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.13.1/helm-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.13.1/helm-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/docker/v0.2.1</id>
+        <title>docker @ v0.2.1</title>
+        <updated>2020-08-17T16:47:45Z</updated>
+        <category term="docker"/>
+        <content>v0.2.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker/v0.2.1/docker-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker/v0.2.1/docker-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker/v0.2.1/docker-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/helm/v0.13.0</id>
+        <title>helm @ v0.13.0</title>
+        <updated>2020-08-17T16:25:29Z</updated>
+        <category term="helm"/>
+        <content>v0.13.0</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.13.0/helm-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.13.0/helm-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.13.0/helm-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/docker/v0.2.0</id>
+        <title>docker @ v0.2.0</title>
+        <updated>2020-07-30T17:42:20Z</updated>
+        <category term="docker"/>
+        <content>v0.2.0</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker/v0.2.0/docker-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker/v0.2.0/docker-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker/v0.2.0/docker-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/terraform/v0.6.0</id>
+        <title>terraform @ v0.6.0</title>
+        <updated>2020-07-24T17:02:36Z</updated>
+        <category term="terraform"/>
+        <content>v0.6.0</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.6.0/terraform-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.6.0/terraform-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.6.0/terraform-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/docker/v0.1.0</id>
+        <title>docker @ v0.1.0</title>
+        <updated>2020-07-24T15:06:19Z</updated>
+        <category term="docker"/>
+        <content>v0.1.0</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker/v0.1.0/docker-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker/v0.1.0/docker-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker/v0.1.0/docker-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.27.2</id>
+        <title>kubernetes @ v0.27.2</title>
+        <updated>2020-07-22T16:05:35Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.27.2</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.27.2/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.27.2/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.27.2/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.27.2</id>
+        <title>exec @ v0.27.2</title>
+        <updated>2020-07-22T16:04:43Z</updated>
+        <category term="exec"/>
+        <content>v0.27.2</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.27.2/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.27.2/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.27.2/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.27.1</id>
+        <title>kubernetes @ v0.27.1</title>
+        <updated>2020-07-07T17:51:33Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.27.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.27.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.27.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.27.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.27.1</id>
+        <title>exec @ v0.27.1</title>
+        <updated>2020-07-07T17:50:43Z</updated>
+        <category term="exec"/>
+        <content>v0.27.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.27.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.27.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.27.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.27.0</id>
+        <title>kubernetes @ v0.27.0</title>
+        <updated>2020-06-25T17:57:28Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.27.0</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.27.0/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.27.0/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.27.0/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.27.0</id>
+        <title>exec @ v0.27.0</title>
+        <updated>2020-06-25T17:56:39Z</updated>
+        <category term="exec"/>
+        <content>v0.27.0</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.27.0/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.27.0/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.27.0/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.26.3-beta.1</id>
+        <title>kubernetes @ v0.26.3-beta.1</title>
+        <updated>2020-06-03T14:18:44Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.26.3-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.26.3-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.26.3-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.26.3-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.26.3-beta.1</id>
+        <title>exec @ v0.26.3-beta.1</title>
+        <updated>2020-06-03T14:17:51Z</updated>
+        <category term="exec"/>
+        <content>v0.26.3-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.26.3-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.26.3-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.26.3-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.26.2-beta.1</id>
+        <title>kubernetes @ v0.26.2-beta.1</title>
+        <updated>2020-04-30T21:13:43Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.26.2-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.26.2-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.26.2-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.26.2-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.26.2-beta.1</id>
+        <title>exec @ v0.26.2-beta.1</title>
+        <updated>2020-04-30T21:12:50Z</updated>
+        <category term="exec"/>
+        <content>v0.26.2-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.26.2-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.26.2-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.26.2-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/terraform/v0.5.3-beta.1</id>
+        <title>terraform @ v0.5.3-beta.1</title>
+        <updated>2020-04-22T22:33:09Z</updated>
+        <category term="terraform"/>
+        <content>v0.5.3-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.5.3-beta.1/terraform-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.5.3-beta.1/terraform-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.5.3-beta.1/terraform-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.26.1-beta.1</id>
+        <title>kubernetes @ v0.26.1-beta.1</title>
+        <updated>2020-04-16T21:26:07Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.26.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.26.1-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.26.1-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.26.1-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.26.1-beta.1</id>
+        <title>exec @ v0.26.1-beta.1</title>
+        <updated>2020-04-16T21:25:18Z</updated>
+        <category term="exec"/>
+        <content>v0.26.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.26.1-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.26.1-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.26.1-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/helm/v0.12.0-beta.1</id>
+        <title>helm @ v0.12.0-beta.1</title>
+        <updated>2020-04-15T19:48:14Z</updated>
+        <category term="helm"/>
+        <content>v0.12.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.12.0-beta.1/helm-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.12.0-beta.1/helm-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.12.0-beta.1/helm-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.26.0-beta.1</id>
+        <title>kubernetes @ v0.26.0-beta.1</title>
+        <updated>2020-04-10T20:05:10Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.26.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.26.0-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.26.0-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.26.0-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.26.0-beta.1</id>
+        <title>exec @ v0.26.0-beta.1</title>
+        <updated>2020-04-10T20:04:22Z</updated>
+        <category term="exec"/>
+        <content>v0.26.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.26.0-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.26.0-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.26.0-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/docker-compose/v0.1.0-beta.1</id>
+        <title>docker-compose @ v0.1.0-beta.1</title>
+        <updated>2020-04-03T16:24:05Z</updated>
+        <category term="docker-compose"/>
+        <content>v0.1.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/v0.1.0-beta.1/docker-compose-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/v0.1.0-beta.1/docker-compose-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/v0.1.0-beta.1/docker-compose-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/gcloud/v0.4.1-beta.1</id>
+        <title>gcloud @ v0.4.1-beta.1</title>
+        <updated>2020-04-01T12:47:58Z</updated>
+        <category term="gcloud"/>
+        <content>v0.4.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v0.4.1-beta.1/gcloud-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v0.4.1-beta.1/gcloud-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v0.4.1-beta.1/gcloud-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/aws/v0.3.1-beta.1</id>
+        <title>aws @ v0.3.1-beta.1</title>
+        <updated>2020-04-01T12:43:55Z</updated>
+        <category term="aws"/>
+        <content>v0.3.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/v0.3.1-beta.1/aws-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/v0.3.1-beta.1/aws-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/v0.3.1-beta.1/aws-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/az/v0.5.1-beta.1</id>
+        <title>az @ v0.5.1-beta.1</title>
+        <updated>2020-04-01T12:40:40Z</updated>
+        <category term="az"/>
+        <content>v0.5.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.5.1-beta.1/az-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.5.1-beta.1/az-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.5.1-beta.1/az-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/helm/v0.11.0-beta.1</id>
+        <title>helm @ v0.11.0-beta.1</title>
+        <updated>2020-03-30T20:48:55Z</updated>
+        <category term="helm"/>
+        <content>v0.11.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.11.0-beta.1/helm-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.11.0-beta.1/helm-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.11.0-beta.1/helm-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/gcloud/v0.4.0-beta.1</id>
+        <title>gcloud @ v0.4.0-beta.1</title>
+        <updated>2020-03-27T19:49:15Z</updated>
+        <category term="gcloud"/>
+        <content>v0.4.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v0.4.0-beta.1/gcloud-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v0.4.0-beta.1/gcloud-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v0.4.0-beta.1/gcloud-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/az/v0.5.0-beta.1</id>
+        <title>az @ v0.5.0-beta.1</title>
+        <updated>2020-03-27T19:09:20Z</updated>
+        <category term="az"/>
+        <content>v0.5.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.5.0-beta.1/az-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.5.0-beta.1/az-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.5.0-beta.1/az-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/aws/v0.3.0-beta.1</id>
+        <title>aws @ v0.3.0-beta.1</title>
+        <updated>2020-03-27T18:41:52Z</updated>
+        <category term="aws"/>
+        <content>v0.3.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/v0.3.0-beta.1/aws-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/v0.3.0-beta.1/aws-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/v0.3.0-beta.1/aws-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.25.0-beta.1</id>
+        <title>kubernetes @ v0.25.0-beta.1</title>
+        <updated>2020-03-27T16:21:29Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.25.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.25.0-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.25.0-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.25.0-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.25.0-beta.1</id>
+        <title>exec @ v0.25.0-beta.1</title>
+        <updated>2020-03-27T16:20:30Z</updated>
+        <category term="exec"/>
+        <content>v0.25.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.25.0-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.25.0-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.25.0-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/helm/v0.10.2-beta.1</id>
+        <title>helm @ v0.10.2-beta.1</title>
+        <updated>2020-03-24T21:43:24Z</updated>
+        <category term="helm"/>
+        <content>v0.10.2-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.10.2-beta.1/helm-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.10.2-beta.1/helm-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.10.2-beta.1/helm-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/terraform/v0.5.2-beta.1</id>
+        <title>terraform @ v0.5.2-beta.1</title>
+        <updated>2020-03-24T21:31:26Z</updated>
+        <category term="terraform"/>
+        <content>v0.5.2-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.5.2-beta.1/terraform-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.5.2-beta.1/terraform-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.5.2-beta.1/terraform-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/az/v0.4.2-beta.1</id>
+        <title>az @ v0.4.2-beta.1</title>
+        <updated>2020-03-24T17:16:23Z</updated>
+        <category term="az"/>
+        <content>v0.4.2-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.4.2-beta.1/az-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.4.2-beta.1/az-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.4.2-beta.1/az-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.24.0-beta.1</id>
+        <title>kubernetes @ v0.24.0-beta.1</title>
+        <updated>2020-03-02T22:39:22Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.24.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.24.0-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.24.0-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.24.0-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.24.0-beta.1</id>
+        <title>exec @ v0.24.0-beta.1</title>
+        <updated>2020-03-02T22:38:25Z</updated>
+        <category term="exec"/>
+        <content>v0.24.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.24.0-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.24.0-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.24.0-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.23.0-beta.1</id>
+        <title>kubernetes @ v0.23.0-beta.1</title>
+        <updated>2020-02-11T23:54:20Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.23.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.23.0-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.23.0-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.23.0-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.23.0-beta.1</id>
+        <title>exec @ v0.23.0-beta.1</title>
+        <updated>2020-02-11T23:53:31Z</updated>
+        <category term="exec"/>
+        <content>v0.23.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.23.0-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.23.0-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.23.0-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.22.2-beta.1</id>
+        <title>kubernetes @ v0.22.2-beta.1</title>
+        <updated>2020-01-22T15:30:03Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.22.2-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.22.2-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.22.2-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.22.2-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.22.2-beta.1</id>
+        <title>exec @ v0.22.2-beta.1</title>
+        <updated>2020-01-22T15:29:18Z</updated>
+        <category term="exec"/>
+        <content>v0.22.2-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.22.2-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.22.2-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.22.2-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/terraform/v0.5.1-beta.1</id>
+        <title>terraform @ v0.5.1-beta.1</title>
+        <updated>2020-01-22T15:03:12Z</updated>
+        <category term="terraform"/>
+        <content>v0.5.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.5.1-beta.1/terraform-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.5.1-beta.1/terraform-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.5.1-beta.1/terraform-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/helm/v0.10.1-beta.1</id>
+        <title>helm @ v0.10.1-beta.1</title>
+        <updated>2020-01-22T14:53:25Z</updated>
+        <category term="helm"/>
+        <content>v0.10.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.10.1-beta.1/helm-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.10.1-beta.1/helm-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.10.1-beta.1/helm-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/az/v0.4.1-beta.1</id>
+        <title>az @ v0.4.1-beta.1</title>
+        <updated>2020-01-22T14:42:58Z</updated>
+        <category term="az"/>
+        <content>v0.4.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.4.1-beta.1/az-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.4.1-beta.1/az-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.4.1-beta.1/az-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/aws/v0.2.1-beta.1</id>
+        <title>aws @ v0.2.1-beta.1</title>
+        <updated>2020-01-22T14:36:09Z</updated>
+        <category term="aws"/>
+        <content>v0.2.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/v0.2.1-beta.1/aws-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/v0.2.1-beta.1/aws-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/v0.2.1-beta.1/aws-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/arm/v0.8.1-beta.1</id>
+        <title>arm @ v0.8.1-beta.1</title>
+        <updated>2020-01-22T14:32:40Z</updated>
+        <category term="arm"/>
+        <content>v0.8.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/arm/v0.8.1-beta.1/arm-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/arm/v0.8.1-beta.1/arm-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/arm/v0.8.1-beta.1/arm-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/gcloud/v0.3.1-beta.1</id>
+        <title>gcloud @ v0.3.1-beta.1</title>
+        <updated>2020-01-22T14:29:04Z</updated>
+        <category term="gcloud"/>
+        <content>v0.3.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v0.3.1-beta.1/gcloud-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v0.3.1-beta.1/gcloud-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v0.3.1-beta.1/gcloud-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.22.1-beta.1</id>
+        <title>kubernetes @ v0.22.1-beta.1</title>
+        <updated>2020-01-10T17:53:14Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.22.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.22.1-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.22.1-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.22.1-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.22.1-beta.1</id>
+        <title>exec @ v0.22.1-beta.1</title>
+        <updated>2020-01-10T17:52:27Z</updated>
+        <category term="exec"/>
+        <content>v0.22.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.22.1-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.22.1-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.22.1-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/terraform/v0.5.0-beta.1</id>
+        <title>terraform @ v0.5.0-beta.1</title>
+        <updated>2019-12-06T15:50:32Z</updated>
+        <category term="terraform"/>
+        <content>v0.5.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.5.0-beta.1/terraform-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.5.0-beta.1/terraform-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.5.0-beta.1/terraform-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/helm/v0.10.0-beta.1</id>
+        <title>helm @ v0.10.0-beta.1</title>
+        <updated>2019-12-06T15:43:42Z</updated>
+        <category term="helm"/>
+        <content>v0.10.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.10.0-beta.1/helm-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.10.0-beta.1/helm-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.10.0-beta.1/helm-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/gcloud/v0.3.0-beta.1</id>
+        <title>gcloud @ v0.3.0-beta.1</title>
+        <updated>2019-12-06T15:32:47Z</updated>
+        <category term="gcloud"/>
+        <content>v0.3.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v0.3.0-beta.1/gcloud-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v0.3.0-beta.1/gcloud-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v0.3.0-beta.1/gcloud-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/az/v0.4.0-beta.1</id>
+        <title>az @ v0.4.0-beta.1</title>
+        <updated>2019-12-06T15:27:40Z</updated>
+        <category term="az"/>
+        <content>v0.4.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.4.0-beta.1/az-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.4.0-beta.1/az-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.4.0-beta.1/az-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/aws/v0.2.0-beta.1</id>
+        <title>aws @ v0.2.0-beta.1</title>
+        <updated>2019-12-06T15:23:44Z</updated>
+        <category term="aws"/>
+        <content>v0.2.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/v0.2.0-beta.1/aws-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/v0.2.0-beta.1/aws-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/v0.2.0-beta.1/aws-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/arm/v0.8.0-beta.1</id>
+        <title>arm @ v0.8.0-beta.1</title>
+        <updated>2019-12-06T15:14:45Z</updated>
+        <category term="arm"/>
+        <content>v0.8.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/arm/v0.8.0-beta.1/arm-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/arm/v0.8.0-beta.1/arm-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/arm/v0.8.0-beta.1/arm-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.22.0-beta.1</id>
+        <title>kubernetes @ v0.22.0-beta.1</title>
+        <updated>2019-12-05T23:13:48Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.22.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.22.0-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.22.0-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.22.0-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.22.0-beta.1</id>
+        <title>exec @ v0.22.0-beta.1</title>
+        <updated>2019-12-05T23:13:02Z</updated>
+        <category term="exec"/>
+        <content>v0.22.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.22.0-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.22.0-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.22.0-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.21.1-beta.1</id>
+        <title>kubernetes @ v0.21.1-beta.1</title>
+        <updated>2019-12-04T22:05:47Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.21.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.21.1-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.21.1-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.21.1-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.21.1-beta.1</id>
+        <title>exec @ v0.21.1-beta.1</title>
+        <updated>2019-12-04T22:05:01Z</updated>
+        <category term="exec"/>
+        <content>v0.21.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.21.1-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.21.1-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.21.1-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.21.0-beta.1</id>
+        <title>kubernetes @ v0.21.0-beta.1</title>
+        <updated>2019-11-14T17:27:47Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.21.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.21.0-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.21.0-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.21.0-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.21.0-beta.1</id>
+        <title>exec @ v0.21.0-beta.1</title>
+        <updated>2019-11-14T17:26:57Z</updated>
+        <category term="exec"/>
+        <content>v0.21.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.21.0-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.21.0-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.21.0-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.20.2-beta.1</id>
+        <title>kubernetes @ v0.20.2-beta.1</title>
+        <updated>2019-10-24T18:41:46Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.20.2-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.20.2-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.20.2-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.20.2-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.20.2-beta.1</id>
+        <title>exec @ v0.20.2-beta.1</title>
+        <updated>2019-10-24T18:40:59Z</updated>
+        <category term="exec"/>
+        <content>v0.20.2-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.20.2-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.20.2-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.20.2-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/helm/v0.9.0-beta.1</id>
+        <title>helm @ v0.9.0-beta.1</title>
+        <updated>2019-10-24T18:18:45Z</updated>
+        <category term="helm"/>
+        <content>v0.9.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.9.0-beta.1/helm-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.9.0-beta.1/helm-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.9.0-beta.1/helm-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.20.1-beta.1</id>
+        <title>kubernetes @ v0.20.1-beta.1</title>
+        <updated>2019-10-23T21:52:01Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.20.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.20.1-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.20.1-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.20.1-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.20.1-beta.1</id>
+        <title>exec @ v0.20.1-beta.1</title>
+        <updated>2019-10-23T21:51:12Z</updated>
+        <category term="exec"/>
+        <content>v0.20.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.20.1-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.20.1-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.20.1-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.20.0-beta.1</id>
+        <title>kubernetes @ v0.20.0-beta.1</title>
+        <updated>2019-10-19T21:38:36Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.20.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.20.0-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.20.0-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.20.0-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.20.0-beta.1</id>
+        <title>exec @ v0.20.0-beta.1</title>
+        <updated>2019-10-19T21:37:45Z</updated>
+        <category term="exec"/>
+        <content>v0.20.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.20.0-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.20.0-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.20.0-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.19.0-beta.1</id>
+        <title>kubernetes @ v0.19.0-beta.1</title>
+        <updated>2019-10-18T18:42:21Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.19.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.19.0-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.19.0-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.19.0-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.19.0-beta.1</id>
+        <title>exec @ v0.19.0-beta.1</title>
+        <updated>2019-10-18T18:41:30Z</updated>
+        <category term="exec"/>
+        <content>v0.19.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.19.0-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.19.0-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.19.0-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.18.1-beta.3</id>
+        <title>kubernetes @ v0.18.1-beta.3</title>
+        <updated>2019-10-17T19:57:11Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.18.1-beta.3</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.18.1-beta.3/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.18.1-beta.3/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.18.1-beta.3/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.18.1-beta.3</id>
+        <title>exec @ v0.18.1-beta.3</title>
+        <updated>2019-10-17T19:56:20Z</updated>
+        <category term="exec"/>
+        <content>v0.18.1-beta.3</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.18.1-beta.3/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.18.1-beta.3/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.18.1-beta.3/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.18.1-beta.2</id>
+        <title>kubernetes @ v0.18.1-beta.2</title>
+        <updated>2019-10-17T18:38:00Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.18.1-beta.2</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.18.1-beta.2/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.18.1-beta.2/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.18.1-beta.2/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.18.1-beta.2</id>
+        <title>exec @ v0.18.1-beta.2</title>
+        <updated>2019-10-17T18:37:11Z</updated>
+        <category term="exec"/>
+        <content>v0.18.1-beta.2</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.18.1-beta.2/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.18.1-beta.2/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.18.1-beta.2/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.18.0-beta.1</id>
+        <title>kubernetes @ v0.18.0-beta.1</title>
+        <updated>2019-10-14T23:08:59Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.18.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.18.0-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.18.0-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.18.0-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.18.0-beta.1</id>
+        <title>exec @ v0.18.0-beta.1</title>
+        <updated>2019-10-14T23:08:08Z</updated>
+        <category term="exec"/>
+        <content>v0.18.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.18.0-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.18.0-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.18.0-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/helm/v0.8.1-beta.1</id>
+        <title>helm @ v0.8.1-beta.1</title>
+        <updated>2019-10-11T13:57:20Z</updated>
+        <category term="helm"/>
+        <content>v0.8.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.8.1-beta.1/helm-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.8.1-beta.1/helm-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.8.1-beta.1/helm-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.17.1-beta.1</id>
+        <title>kubernetes @ v0.17.1-beta.1</title>
+        <updated>2019-10-11T01:38:34Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.17.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.17.1-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.17.1-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.17.1-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.17.1-beta.1</id>
+        <title>exec @ v0.17.1-beta.1</title>
+        <updated>2019-10-11T01:37:44Z</updated>
+        <category term="exec"/>
+        <content>v0.17.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.17.1-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.17.1-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.17.1-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/az/v0.3.2-beta.1</id>
+        <title>az @ v0.3.2-beta.1</title>
+        <updated>2019-10-02T20:15:21Z</updated>
+        <category term="az"/>
+        <content>v0.3.2-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.3.2-beta.1/az-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.3.2-beta.1/az-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.3.2-beta.1/az-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.17.0-beta.1</id>
+        <title>kubernetes @ v0.17.0-beta.1</title>
+        <updated>2019-09-30T21:51:06Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.17.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.17.0-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.17.0-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.17.0-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.17.0-beta.1</id>
+        <title>exec @ v0.17.0-beta.1</title>
+        <updated>2019-09-30T21:50:17Z</updated>
+        <category term="exec"/>
+        <content>v0.17.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.17.0-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.17.0-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.17.0-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/az/v0.3.1-beta.1</id>
+        <title>az @ v0.3.1-beta.1</title>
+        <updated>2019-09-30T19:08:28Z</updated>
+        <category term="az"/>
+        <content>v0.3.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.3.1-beta.1/az-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.3.1-beta.1/az-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.3.1-beta.1/az-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/az/v0.3.0-beta.1</id>
+        <title>az @ v0.3.0-beta.1</title>
+        <updated>2019-09-19T18:16:54Z</updated>
+        <category term="az"/>
+        <content>v0.3.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.3.0-beta.1/az-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.3.0-beta.1/az-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.3.0-beta.1/az-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.16.1-beta.1</id>
+        <title>kubernetes @ v0.16.1-beta.1</title>
+        <updated>2019-09-18T22:55:16Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.16.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.16.1-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.16.1-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.16.1-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.16.1-beta.1</id>
+        <title>exec @ v0.16.1-beta.1</title>
+        <updated>2019-09-18T22:54:20Z</updated>
+        <category term="exec"/>
+        <content>v0.16.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.16.1-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.16.1-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.16.1-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.16.0-beta.1</id>
+        <title>kubernetes @ v0.16.0-beta.1</title>
+        <updated>2019-09-18T19:21:34Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.16.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.16.0-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.16.0-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.16.0-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.16.0-beta.1</id>
+        <title>exec @ v0.16.0-beta.1</title>
+        <updated>2019-09-18T19:20:37Z</updated>
+        <category term="exec"/>
+        <content>v0.16.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.16.0-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.16.0-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.16.0-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.15.0-beta.1</id>
+        <title>kubernetes @ v0.15.0-beta.1</title>
+        <updated>2019-09-17T13:44:03Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.15.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.15.0-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.15.0-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.15.0-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.15.0-beta.1</id>
+        <title>exec @ v0.15.0-beta.1</title>
+        <updated>2019-09-17T13:43:13Z</updated>
+        <category term="exec"/>
+        <content>v0.15.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.15.0-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.15.0-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.15.0-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/helm/v0.8.0-beta.1</id>
+        <title>helm @ v0.8.0-beta.1</title>
+        <updated>2019-09-13T14:53:27Z</updated>
+        <category term="helm"/>
+        <content>v0.8.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.8.0-beta.1/helm-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.8.0-beta.1/helm-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.8.0-beta.1/helm-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/azure/v0.7.1-beta.1</id>
+        <title>azure @ v0.7.1-beta.1</title>
+        <updated>2019-09-10T20:18:09Z</updated>
+        <category term="azure"/>
+        <content>v0.7.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/azure/v0.7.1-beta.1/azure-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/azure/v0.7.1-beta.1/azure-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/azure/v0.7.1-beta.1/azure-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/azure/canary</id>
+        <title>azure @ canary</title>
+        <updated>2019-09-10T20:17:09Z</updated>
+        <category term="azure"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/azure/canary/azure-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/azure/canary/azure-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/azure/canary/azure-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/terraform/v0.4.1-beta.1</id>
+        <title>terraform @ v0.4.1-beta.1</title>
+        <updated>2019-09-10T20:04:54Z</updated>
+        <category term="terraform"/>
+        <content>v0.4.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.4.1-beta.1/terraform-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.4.1-beta.1/terraform-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.4.1-beta.1/terraform-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/helm/v0.7.0-beta.1</id>
+        <title>helm @ v0.7.0-beta.1</title>
+        <updated>2019-09-10T20:01:06Z</updated>
+        <category term="helm"/>
+        <content>v0.7.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.7.0-beta.1/helm-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.7.0-beta.1/helm-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.7.0-beta.1/helm-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/aws/v0.1.2-beta.1</id>
+        <title>aws @ v0.1.2-beta.1</title>
+        <updated>2019-09-10T19:44:33Z</updated>
+        <category term="aws"/>
+        <content>v0.1.2-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/v0.1.2-beta.1/aws-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/v0.1.2-beta.1/aws-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/v0.1.2-beta.1/aws-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/gcloud/v0.2.1-beta.1</id>
+        <title>gcloud @ v0.2.1-beta.1</title>
+        <updated>2019-09-10T19:20:57Z</updated>
+        <category term="gcloud"/>
+        <content>v0.2.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v0.2.1-beta.1/gcloud-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v0.2.1-beta.1/gcloud-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v0.2.1-beta.1/gcloud-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/az/v0.2.1-beta.1</id>
+        <title>az @ v0.2.1-beta.1</title>
+        <updated>2019-09-10T19:03:05Z</updated>
+        <category term="az"/>
+        <content>v0.2.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.2.1-beta.1/az-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.2.1-beta.1/az-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.2.1-beta.1/az-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.14.1-beta.2</id>
+        <title>kubernetes @ v0.14.1-beta.2</title>
+        <updated>2019-09-10T18:50:58Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.14.1-beta.2</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.14.1-beta.2/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.14.1-beta.2/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.14.1-beta.2/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.14.1-beta.2</id>
+        <title>exec @ v0.14.1-beta.2</title>
+        <updated>2019-09-10T18:50:08Z</updated>
+        <category term="exec"/>
+        <content>v0.14.1-beta.2</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.14.1-beta.2/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.14.1-beta.2/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.14.1-beta.2/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.14.1-beta.1</id>
+        <title>kubernetes @ v0.14.1-beta.1</title>
+        <updated>2019-09-10T15:05:01Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.14.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.14.1-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.14.1-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.14.1-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.14.1-beta.1</id>
+        <title>exec @ v0.14.1-beta.1</title>
+        <updated>2019-09-10T15:03:41Z</updated>
+        <category term="exec"/>
+        <content>v0.14.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.14.1-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.14.1-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.14.1-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.13.2-beta.1</id>
+        <title>kubernetes @ v0.13.2-beta.1</title>
+        <updated>2019-09-10T03:47:32Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.13.2-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.13.2-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.13.2-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.13.2-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.13.2-beta.1</id>
+        <title>exec @ v0.13.2-beta.1</title>
+        <updated>2019-09-10T03:46:12Z</updated>
+        <category term="exec"/>
+        <content>v0.13.2-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.13.2-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.13.2-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.13.2-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/terraform/v0.4.0-beta.1</id>
+        <title>terraform @ v0.4.0-beta.1</title>
+        <updated>2019-09-06T22:15:29Z</updated>
+        <category term="terraform"/>
+        <content>v0.4.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.4.0-beta.1/terraform-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.4.0-beta.1/terraform-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.4.0-beta.1/terraform-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/az/v0.2.0-beta.1</id>
+        <title>az @ v0.2.0-beta.1</title>
+        <updated>2019-09-04T22:29:36Z</updated>
+        <category term="az"/>
+        <content>v0.2.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.2.0-beta.1/az-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.2.0-beta.1/az-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.2.0-beta.1/az-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/az/v0.1.0-beta.1</id>
+        <title>az @ v0.1.0-beta.1</title>
+        <updated>2019-09-04T20:07:42Z</updated>
+        <category term="az"/>
+        <content>v0.1.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.1.0-beta.1/az-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.1.0-beta.1/az-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.1.0-beta.1/az-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.13.1-beta.1</id>
+        <title>kubernetes @ v0.13.1-beta.1</title>
+        <updated>2019-09-03T17:21:14Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.13.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.13.1-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.13.1-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.13.1-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.13.1-beta.1</id>
+        <title>exec @ v0.13.1-beta.1</title>
+        <updated>2019-09-03T17:19:57Z</updated>
+        <category term="exec"/>
+        <content>v0.13.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.13.1-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.13.1-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.13.1-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.13.0-beta.1</id>
+        <title>kubernetes @ v0.13.0-beta.1</title>
+        <updated>2019-08-30T19:42:54Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.13.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.13.0-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.13.0-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.13.0-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.13.0-beta.1</id>
+        <title>exec @ v0.13.0-beta.1</title>
+        <updated>2019-08-30T19:41:31Z</updated>
+        <category term="exec"/>
+        <content>v0.13.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.13.0-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.13.0-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.13.0-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.12.1-beta.1</id>
+        <title>kubernetes @ v0.12.1-beta.1</title>
+        <updated>2019-08-28T17:31:00Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.12.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.12.1-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.12.1-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.12.1-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.12.1-beta.1</id>
+        <title>exec @ v0.12.1-beta.1</title>
+        <updated>2019-08-28T17:29:42Z</updated>
+        <category term="exec"/>
+        <content>v0.12.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.12.1-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.12.1-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.12.1-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.12.0-beta.1</id>
+        <title>kubernetes @ v0.12.0-beta.1</title>
+        <updated>2019-08-23T20:10:43Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.12.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.12.0-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.12.0-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.12.0-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.12.0-beta.1</id>
+        <title>exec @ v0.12.0-beta.1</title>
+        <updated>2019-08-23T20:09:24Z</updated>
+        <category term="exec"/>
+        <content>v0.12.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.12.0-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.12.0-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.12.0-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.11.1-beta.1</id>
+        <title>kubernetes @ v0.11.1-beta.1</title>
+        <updated>2019-08-15T21:55:04Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.11.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.11.1-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.11.1-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.11.1-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.11.1-beta.1</id>
+        <title>exec @ v0.11.1-beta.1</title>
+        <updated>2019-08-15T21:53:43Z</updated>
+        <category term="exec"/>
+        <content>v0.11.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.11.1-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.11.1-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.11.1-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.11.0-beta.1</id>
+        <title>kubernetes @ v0.11.0-beta.1</title>
+        <updated>2019-08-14T20:00:59Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.11.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.11.0-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.11.0-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.11.0-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.11.0-beta.1</id>
+        <title>exec @ v0.11.0-beta.1</title>
+        <updated>2019-08-14T19:59:38Z</updated>
+        <category term="exec"/>
+        <content>v0.11.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.11.0-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.11.0-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.11.0-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/gcloud/v0.2.0-beta.1</id>
+        <title>gcloud @ v0.2.0-beta.1</title>
+        <updated>2019-08-14T14:03:31Z</updated>
+        <category term="gcloud"/>
+        <content>v0.2.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v0.2.0-beta.1/gcloud-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v0.2.0-beta.1/gcloud-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v0.2.0-beta.1/gcloud-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/gcloud/v0.1.0-beta.1</id>
+        <title>gcloud @ v0.1.0-beta.1</title>
+        <updated>2019-08-05T19:50:57Z</updated>
+        <category term="gcloud"/>
+        <content>v0.1.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v0.1.0-beta.1/gcloud-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v0.1.0-beta.1/gcloud-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v0.1.0-beta.1/gcloud-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/terraform/v0.3.0-beta.1</id>
+        <title>terraform @ v0.3.0-beta.1</title>
+        <updated>2019-08-05T19:47:04Z</updated>
+        <category term="terraform"/>
+        <content>v0.3.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.3.0-beta.1/terraform-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.3.0-beta.1/terraform-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.3.0-beta.1/terraform-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.10.0-beta.2</id>
+        <title>kubernetes @ v0.10.0-beta.2</title>
+        <updated>2019-08-05T17:41:16Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.10.0-beta.2</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.10.0-beta.2/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.10.0-beta.2/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.10.0-beta.2/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.10.0-beta.2</id>
+        <title>exec @ v0.10.0-beta.2</title>
+        <updated>2019-08-05T17:40:00Z</updated>
+        <category term="exec"/>
+        <content>v0.10.0-beta.2</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.10.0-beta.2/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.10.0-beta.2/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.10.0-beta.2/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/aws/v0.1.1-beta.1</id>
+        <title>aws @ v0.1.1-beta.1</title>
+        <updated>2019-08-03T20:22:11Z</updated>
+        <category term="aws"/>
+        <content>v0.1.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/v0.1.1-beta.1/aws-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/v0.1.1-beta.1/aws-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/v0.1.1-beta.1/aws-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/aws/v0.1.0-beta.1</id>
+        <title>aws @ v0.1.0-beta.1</title>
+        <updated>2019-08-03T15:40:27Z</updated>
+        <category term="aws"/>
+        <content>v0.1.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/v0.1.0-beta.1/aws-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/v0.1.0-beta.1/aws-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/v0.1.0-beta.1/aws-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/azure/v0.7.0-beta.1</id>
+        <title>azure @ v0.7.0-beta.1</title>
+        <updated>2019-08-02T22:09:12Z</updated>
+        <category term="azure"/>
+        <content>v0.7.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/azure/v0.7.0-beta.1/azure-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/azure/v0.7.0-beta.1/azure-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/azure/v0.7.0-beta.1/azure-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.10.0-beta.1</id>
+        <title>kubernetes @ v0.10.0-beta.1</title>
+        <updated>2019-08-01T21:03:39Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.10.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.10.0-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.10.0-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.10.0-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.10.0-beta.1</id>
+        <title>exec @ v0.10.0-beta.1</title>
+        <updated>2019-08-01T21:02:26Z</updated>
+        <category term="exec"/>
+        <content>v0.10.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.10.0-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.10.0-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.10.0-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/azure/v0.6.1-beta.1</id>
+        <title>azure @ v0.6.1-beta.1</title>
+        <updated>2019-06-20T14:11:07Z</updated>
+        <category term="azure"/>
+        <content>v0.6.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/azure/v0.6.1-beta.1/azure-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/azure/v0.6.1-beta.1/azure-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/azure/v0.6.1-beta.1/azure-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/terraform/v0.2.1-beta.1</id>
+        <title>terraform @ v0.2.1-beta.1</title>
+        <updated>2019-06-20T14:03:01Z</updated>
+        <category term="terraform"/>
+        <content>v0.2.1-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.2.1-beta.1/terraform-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.2.1-beta.1/terraform-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.2.1-beta.1/terraform-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/helm/v0.6.0-beta.1</id>
+        <title>helm @ v0.6.0-beta.1</title>
+        <updated>2019-06-20T13:55:33Z</updated>
+        <category term="helm"/>
+        <content>v0.6.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.6.0-beta.1/helm-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.6.0-beta.1/helm-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.6.0-beta.1/helm-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.9.0-beta.1</id>
+        <title>kubernetes @ v0.9.0-beta.1</title>
+        <updated>2019-06-19T20:48:50Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.9.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.9.0-beta.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.9.0-beta.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.9.0-beta.1/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.9.0-beta.1</id>
+        <title>exec @ v0.9.0-beta.1</title>
+        <updated>2019-06-19T20:47:26Z</updated>
+        <category term="exec"/>
+        <content>v0.9.0-beta.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.9.0-beta.1/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.9.0-beta.1/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.9.0-beta.1/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.8.1-ralpha.1+englishrose</id>
+        <title>kubernetes @ v0.8.1-ralpha.1+englishrose</title>
+        <updated>2019-06-10T23:06:20Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.8.1-ralpha.1+englishrose</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.8.1-ralpha.1+englishrose/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.8.1-ralpha.1+englishrose/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.8.1-ralpha.1+englishrose/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.8.1-ralpha.1+englishrose</id>
+        <title>exec @ v0.8.1-ralpha.1+englishrose</title>
+        <updated>2019-06-10T23:04:59Z</updated>
+        <category term="exec"/>
+        <content>v0.8.1-ralpha.1+englishrose</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.8.1-ralpha.1+englishrose/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.8.1-ralpha.1+englishrose/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.8.1-ralpha.1+englishrose/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.8.0-ralpha.1+englishrose</id>
+        <title>kubernetes @ v0.8.0-ralpha.1+englishrose</title>
+        <updated>2019-06-09T22:09:48Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.8.0-ralpha.1+englishrose</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.8.0-ralpha.1+englishrose/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.8.0-ralpha.1+englishrose/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.8.0-ralpha.1+englishrose/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.8.0-ralpha.1+englishrose</id>
+        <title>exec @ v0.8.0-ralpha.1+englishrose</title>
+        <updated>2019-06-09T22:08:30Z</updated>
+        <category term="exec"/>
+        <content>v0.8.0-ralpha.1+englishrose</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.8.0-ralpha.1+englishrose/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.8.0-ralpha.1+englishrose/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.8.0-ralpha.1+englishrose/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/helm/v0.5.0-ralpha.3+englishrose</id>
+        <title>helm @ v0.5.0-ralpha.3+englishrose</title>
+        <updated>2019-05-14T19:49:21Z</updated>
+        <category term="helm"/>
+        <content>v0.5.0-ralpha.3+englishrose</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.5.0-ralpha.3+englishrose/helm-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.5.0-ralpha.3+englishrose/helm-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.5.0-ralpha.3+englishrose/helm-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/terraform/v0.2.0-ralpha.1+englishrose</id>
+        <title>terraform @ v0.2.0-ralpha.1+englishrose</title>
+        <updated>2019-05-14T19:44:16Z</updated>
+        <category term="terraform"/>
+        <content>v0.2.0-ralpha.1+englishrose</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.2.0-ralpha.1+englishrose/terraform-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.2.0-ralpha.1+englishrose/terraform-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.2.0-ralpha.1+englishrose/terraform-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/azure/v0.6.0-ralpha.1+englishrose</id>
+        <title>azure @ v0.6.0-ralpha.1+englishrose</title>
+        <updated>2019-05-14T19:41:41Z</updated>
+        <category term="azure"/>
+        <content>v0.6.0-ralpha.1+englishrose</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/azure/v0.6.0-ralpha.1+englishrose/azure-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/azure/v0.6.0-ralpha.1+englishrose/azure-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/azure/v0.6.0-ralpha.1+englishrose/azure-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.7.0-ralpha.1+englishrose</id>
+        <title>kubernetes @ v0.7.0-ralpha.1+englishrose</title>
+        <updated>2019-05-14T19:31:04Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.7.0-ralpha.1+englishrose</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.7.0-ralpha.1+englishrose/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.7.0-ralpha.1+englishrose/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.7.0-ralpha.1+englishrose/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.7.0-ralpha.1+englishrose</id>
+        <title>exec @ v0.7.0-ralpha.1+englishrose</title>
+        <updated>2019-05-14T19:29:50Z</updated>
+        <category term="exec"/>
+        <content>v0.7.0-ralpha.1+englishrose</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.7.0-ralpha.1+englishrose/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.7.0-ralpha.1+englishrose/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.7.0-ralpha.1+englishrose/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.6.0-ralpha.1+elderflowerspritz</id>
+        <title>kubernetes @ v0.6.0-ralpha.1+elderflowerspritz</title>
+        <updated>2019-05-01T23:12:21Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.6.0-ralpha.1+elderflowerspritz</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.6.0-ralpha.1+elderflowerspritz/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.6.0-ralpha.1+elderflowerspritz/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.6.0-ralpha.1+elderflowerspritz/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.6.0-ralpha.1+elderflowerspritz</id>
+        <title>exec @ v0.6.0-ralpha.1+elderflowerspritz</title>
+        <updated>2019-05-01T23:11:00Z</updated>
+        <category term="exec"/>
+        <content>v0.6.0-ralpha.1+elderflowerspritz</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.6.0-ralpha.1+elderflowerspritz/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.6.0-ralpha.1+elderflowerspritz/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.6.0-ralpha.1+elderflowerspritz/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/helm/v0.5.0-ralpha.2+elderflowerspritz</id>
+        <title>helm @ v0.5.0-ralpha.2+elderflowerspritz</title>
+        <updated>2019-04-25T13:41:31Z</updated>
+        <category term="helm"/>
+        <content>v0.5.0-ralpha.2+elderflowerspritz</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.5.0-ralpha.2+elderflowerspritz/helm-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.5.0-ralpha.2+elderflowerspritz/helm-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.5.0-ralpha.2+elderflowerspritz/helm-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/azure/v0.5.0-ralpha.3+elderflowerspritz</id>
+        <title>azure @ v0.5.0-ralpha.3+elderflowerspritz</title>
+        <updated>2019-04-25T13:27:39Z</updated>
+        <category term="azure"/>
+        <content>v0.5.0-ralpha.3+elderflowerspritz</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/azure/v0.5.0-ralpha.3+elderflowerspritz/azure-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/azure/v0.5.0-ralpha.3+elderflowerspritz/azure-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/azure/v0.5.0-ralpha.3+elderflowerspritz/azure-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/terraform/v0.1.0-ralpha.1+elderflowerspritz</id>
+        <title>terraform @ v0.1.0-ralpha.1+elderflowerspritz</title>
+        <updated>2019-04-25T13:24:54Z</updated>
+        <category term="terraform"/>
+        <content>v0.1.0-ralpha.1+elderflowerspritz</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.1.0-ralpha.1+elderflowerspritz/terraform-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.1.0-ralpha.1+elderflowerspritz/terraform-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.1.0-ralpha.1+elderflowerspritz/terraform-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/azure/v0.5.0-ralpha.2+elderflowerspritz</id>
+        <title>azure @ v0.5.0-ralpha.2+elderflowerspritz</title>
+        <updated>2019-04-24T21:47:08Z</updated>
+        <category term="azure"/>
+        <content>v0.5.0-ralpha.2+elderflowerspritz</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/azure/v0.5.0-ralpha.2+elderflowerspritz/azure-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/azure/v0.5.0-ralpha.2+elderflowerspritz/azure-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/azure/v0.5.0-ralpha.2+elderflowerspritz/azure-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/helm/v0.5.0-ralpha.1+elderflowerspritz</id>
+        <title>helm @ v0.5.0-ralpha.1+elderflowerspritz</title>
+        <updated>2019-04-24T20:51:26Z</updated>
+        <category term="helm"/>
+        <content>v0.5.0-ralpha.1+elderflowerspritz</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.5.0-ralpha.1+elderflowerspritz/helm-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.5.0-ralpha.1+elderflowerspritz/helm-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.5.0-ralpha.1+elderflowerspritz/helm-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v0.5.0-ralpha.1+elderflowerspritz</id>
+        <title>kubernetes @ v0.5.0-ralpha.1+elderflowerspritz</title>
+        <updated>2019-04-24T20:16:52Z</updated>
+        <category term="kubernetes"/>
+        <content>v0.5.0-ralpha.1+elderflowerspritz</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.5.0-ralpha.1+elderflowerspritz/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.5.0-ralpha.1+elderflowerspritz/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v0.5.0-ralpha.1+elderflowerspritz/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v0.5.0-ralpha.1+elderflowerspritz</id>
+        <title>exec @ v0.5.0-ralpha.1+elderflowerspritz</title>
+        <updated>2019-04-24T20:15:32Z</updated>
+        <category term="exec"/>
+        <content>v0.5.0-ralpha.1+elderflowerspritz</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.5.0-ralpha.1+elderflowerspritz/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.5.0-ralpha.1+elderflowerspritz/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.5.0-ralpha.1+elderflowerspritz/exec-windows-amd64.exe" />
+    </entry>
+</feed>
