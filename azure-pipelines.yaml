@@ -1,4 +1,8 @@
-trigger: none
+trigger:
+  branches:
+    include:
+      - refs/heads/main
+      - refs/tags/v*
 pr: 
   - main
 
