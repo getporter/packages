@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Mixins</title>
-    <updated>2021-04-08T17:43:42Z</updated>
+    <updated>2021-04-08T17:46:46Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -18,6 +18,16 @@
     <category term="helm"/>
     <category term="kubernetes"/>
     <category term="terraform"/>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/terraform/v0.6.2</id>
+        <title>terraform @ v0.6.2</title>
+        <updated>2021-04-08T17:46:46Z</updated>
+        <category term="terraform"/>
+        <content>v0.6.2</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.6.2/terraform-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.6.2/terraform-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.6.2/terraform-windows-amd64.exe" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/helm/v0.13.4</id>
         <title>helm @ v0.13.4</title>
