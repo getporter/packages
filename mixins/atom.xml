@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh/mixins</id>
     <title>Porter Mixins</title>
-    <updated>2021-03-30T17:56:06Z</updated>
+    <updated>2021-04-08T01:49:45Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -19,6 +19,16 @@
     <category term="kubernetes"/>
     <category term="terraform"/>
     <entry>
+        <id>https://cdn.porter.sh/mixins/exec/canary</id>
+        <title>exec @ canary</title>
+        <updated>2021-04-08T01:49:45Z</updated>
+        <category term="exec"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
         <id>https://cdn.porter.sh/mixins/exec/v0.37.0</id>
         <title>exec @ v0.37.0</title>
         <updated>2021-03-30T17:56:06Z</updated>
@@ -27,16 +37,6 @@
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.37.0/exec-darwin-amd64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.37.0/exec-linux-amd64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.37.0/exec-windows-amd64.exe" />
-    </entry>
-    <entry>
-        <id>https://cdn.porter.sh/mixins/exec/canary</id>
-        <title>exec @ canary</title>
-        <updated>2021-03-30T17:08:50Z</updated>
-        <category term="exec"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-windows-amd64.exe" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/exec/v0.36.0</id>
