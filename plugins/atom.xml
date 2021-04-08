@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Plugins</title>
-    <updated>2021-04-08T18:20:57Z</updated>
+    <updated>2021-04-08T18:24:38Z</updated>
     <link rel="self" href="https://cdn.porter.sh/plugins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -9,6 +9,16 @@
     </author>
     <category term="azure"/>
     <category term="kubernetes"/>
+    <entry>
+        <id>https://cdn.porter.sh/plugins/azure/v0.11.2</id>
+        <title>azure @ v0.11.2</title>
+        <updated>2021-04-08T18:24:38Z</updated>
+        <category term="azure"/>
+        <content>v0.11.2</content>
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v0.11.2/azure-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v0.11.2/azure-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v0.11.2/azure-windows-amd64.exe" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/plugins/azure/canary</id>
         <title>azure @ canary</title>
