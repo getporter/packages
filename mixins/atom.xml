@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh/mixins</id>
     <title>Porter Mixins</title>
-    <updated>2021-04-27T21:00:49Z</updated>
+    <updated>2021-04-29T17:21:36Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -19,6 +19,16 @@
     <category term="kubernetes"/>
     <category term="terraform"/>
     <entry>
+        <id>https://cdn.porter.sh/mixins/exec/canary</id>
+        <title>exec @ canary</title>
+        <updated>2021-04-29T17:21:36Z</updated>
+        <category term="exec"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-windows-amd64.exe" />
+    </entry>
+    <entry>
         <id>https://cdn.porter.sh/mixins/exec/v0.37.3</id>
         <title>exec @ v0.37.3</title>
         <updated>2021-04-27T21:00:49Z</updated>
@@ -27,16 +37,6 @@
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.37.3/exec-darwin-amd64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.37.3/exec-linux-amd64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.37.3/exec-windows-amd64.exe" />
-    </entry>
-    <entry>
-        <id>https://cdn.porter.sh/mixins/exec/canary</id>
-        <title>exec @ canary</title>
-        <updated>2021-04-27T18:22:00Z</updated>
-        <category term="exec"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-windows-amd64.exe" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/terraform/v0.6.2</id>
