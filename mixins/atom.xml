@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh/mixins</id>
     <title>Porter Mixins</title>
-    <updated>2021-06-11T13:00:14Z</updated>
+    <updated>2021-06-11T14:08:41Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -18,6 +18,16 @@
     <category term="helm"/>
     <category term="kubernetes"/>
     <category term="terraform"/>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/change-v1-branch-name-canary</id>
+        <title>exec @ change-v1-branch-name-canary</title>
+        <updated>2021-06-11T14:08:41Z</updated>
+        <category term="exec"/>
+        <content>change-v1-branch-name-canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/change-v1-branch-name-canary/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/change-v1-branch-name-canary/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/change-v1-branch-name-canary/exec-windows-amd64" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/exec/canary</id>
         <title>exec @ canary</title>
