@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh/mixins</id>
     <title>Porter Mixins</title>
-    <updated>2021-06-14T16:30:42Z</updated>
+    <updated>2021-06-14T16:37:05Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -21,7 +21,7 @@
     <entry>
         <id>https://cdn.porter.sh/mixins/exec/v1-canary</id>
         <title>exec @ v1-canary</title>
-        <updated>2021-06-14T16:30:42Z</updated>
+        <updated>2021-06-14T16:37:05Z</updated>
         <category term="exec"/>
         <content>v1-canary</content>
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1-canary/exec-darwin-amd64" />
