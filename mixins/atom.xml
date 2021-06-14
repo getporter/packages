@@ -19,16 +19,6 @@
     <category term="kubernetes"/>
     <category term="terraform"/>
     <entry>
-        <id>https://cdn.porter.sh/mixins/exec/v1-canary</id>
-        <title>exec @ v1-canary</title>
-        <updated>2021-06-14T18:22:09Z</updated>
-        <category term="exec"/>
-        <content>v1-canary</content>
-        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1-canary/exec-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1-canary/exec-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1-canary/exec-windows-amd64" />
-    </entry>
-    <entry>
         <id>https://cdn.porter.sh/mixins/exec/canary</id>
         <title>exec @ canary</title>
         <updated>2021-06-11T16:53:43Z</updated>
