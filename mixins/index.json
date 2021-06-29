@@ -18,6 +18,12 @@
     "URL": "https://cdn.porter.sh/mixins/atom.xml"
   },
   {
+    "name": "brig",
+    "author": "Vaughn Dice",
+    "description": "A mixin for using the brig cli",
+    "URL": "https://vdice.github.io/porter-brig-mixin/atom.xml"
+  },
+  {
     "name": "cowsay",
     "author": "Porter Authors",
     "description": "A mixin for using the cowsay cli",
