@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://porter.sh/mixins</id>
+    <id>https://porter.sh</id>
     <title>Porter Mixins</title>
-    <updated>2021-06-30T17:29:04Z</updated>
+    <updated>2021-06-30T20:31:07Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -18,6 +18,16 @@
     <category term="helm"/>
     <category term="kubernetes"/>
     <category term="terraform"/>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/helm/canary</id>
+        <title>helm @ canary</title>
+        <updated>2021-06-30T20:31:07Z</updated>
+        <category term="helm"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/canary/helm-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/canary/helm-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm/canary/helm-windows-amd64.exe" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/exec/canary</id>
         <title>exec @ canary</title>
@@ -168,16 +178,6 @@
         <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-darwin-amd64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-linux-amd64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-windows-amd64.exe" />
-    </entry>
-    <entry>
-        <id>https://cdn.porter.sh/mixins/helm/canary</id>
-        <title>helm @ canary</title>
-        <updated>2021-04-08T17:23:06Z</updated>
-        <category term="helm"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/mixins/helm/canary/helm-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/helm/canary/helm-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/helm/canary/helm-windows-amd64.exe" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/gcloud/v0.4.2</id>
