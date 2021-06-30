@@ -48,21 +48,21 @@
     "URL": "https://cdn.porter.sh/mixins/atom.xml"
   },
   {
-    "name": "helm",
+    "name": "helm2",
     "author": "Porter Authors",
-    "description": "A mixin for using the helm cli",
+    "description": "Deprecated, use Mohamed Chorfa's helm3 mixin instead. A mixin for using the helm v2 cli",
     "URL": "https://cdn.porter.sh/mixins/atom.xml"
   },
   {
     "name": "helm3",
     "author": "Ralph Squillace",
-    "description": "A mixin for using the helm 3 cli",
+    "description": "A mixin for using the helm v3 cli",
     "URL": "https://github.com/squillace/porter-helm3/releases/download"
   },
   {
     "name": "helm3",
     "author": "Mohamed Chorfa",
-    "description": "Porter Helm3 Mixin",
+    "description": "A mixin for using the helm v3 cli",
     "URL": "https://mchorfa.github.com/porter-helm3/atom.xml"
   },
   {
