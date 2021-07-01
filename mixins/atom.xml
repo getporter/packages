@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Mixins</title>
-    <updated>2021-06-30T21:09:13Z</updated>
+    <updated>2021-07-01T22:00:23Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -19,6 +19,16 @@
     <category term="helm2"/>
     <category term="kubernetes"/>
     <category term="terraform"/>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/helm2/canary</id>
+        <title>helm2 @ canary</title>
+        <updated>2021-07-01T22:00:23Z</updated>
+        <category term="helm2"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm2/canary/helm2-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm2/canary/helm2-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/helm2/canary/helm2-windows-amd64.exe" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/helm2/v0.14.0</id>
         <title>helm2 @ v0.14.0</title>
