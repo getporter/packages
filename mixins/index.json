@@ -55,12 +55,6 @@
   },
   {
     "name": "helm3",
-    "author": "Ralph Squillace",
-    "description": "A mixin for using the helm v3 cli",
-    "URL": "https://github.com/squillace/porter-helm3/releases/download"
-  },
-  {
-    "name": "helm3",
     "author": "Mohamed Chorfa",
     "description": "A mixin for using the helm v3 cli",
     "URL": "https://mchorfa.github.com/porter-helm3/atom.xml"
