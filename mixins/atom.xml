@@ -50,16 +50,6 @@
         <link rel="download" href="https://cdn.porter.sh/mixins/helm2/v0.14.0/helm2-windows-amd64.exe" />
     </entry>
     <entry>
-        <id>https://cdn.porter.sh/mixins/helm/v0.14.0</id>
-        <title>helm @ v0.14.0</title>
-        <updated>2021-06-30T21:09:13Z</updated>
-        <category term="helm"/>
-        <content>v0.14.0</content>
-        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.14.0/helm-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.14.0/helm-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/helm/v0.14.0/helm-windows-amd64.exe" />
-    </entry>
-    <entry>
         <id>https://cdn.porter.sh/mixins/helm/canary</id>
         <title>helm @ canary</title>
         <updated>2021-06-30T20:31:07Z</updated>
