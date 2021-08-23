@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://porter.sh</id>
+    <id>https://porter.sh/mixins</id>
     <title>Porter Mixins</title>
-    <updated>2021-08-23T17:00:54Z</updated>
+    <updated>2021-08-23T20:33:15Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -19,6 +19,17 @@
     <category term="helm2"/>
     <category term="kubernetes"/>
     <category term="terraform"/>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/canary</id>
+        <title>exec @ canary</title>
+        <updated>2021-08-23T20:33:15Z</updated>
+        <category term="exec"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-windows-amd64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-windows-amd64" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/terraform/canary</id>
         <title>terraform @ canary</title>
@@ -38,17 +49,6 @@
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.38.5/exec-darwin-amd64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.38.5/exec-linux-amd64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/v0.38.5/exec-windows-amd64.exe" />
-    </entry>
-    <entry>
-        <id>https://cdn.porter.sh/mixins/exec/canary</id>
-        <title>exec @ canary</title>
-        <updated>2021-08-17T19:35:41Z</updated>
-        <category term="exec"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-windows-amd64.exe" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-windows-amd64" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/terraform/v0.7.0</id>
