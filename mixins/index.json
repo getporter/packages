@@ -57,7 +57,7 @@
     "name": "helm3",
     "author": "Mohamed Chorfa",
     "description": "A mixin for using the helm v3 cli",
-    "URL": "https://mchorfa.github.com/porter-helm3/atom.xml"
+    "URL": "https://mchorfa.github.io/porter-helm3/atom.xml"
   },
   {
     "name": "packer",
