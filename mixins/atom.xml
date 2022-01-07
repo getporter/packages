@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://porter.sh/mixins</id>
+    <id>https://porter.sh</id>
     <title>Porter Mixins</title>
-    <updated>2022-01-07T15:13:26Z</updated>
+    <updated>2022-01-07T15:39:05Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -19,6 +19,16 @@
     <category term="helm2"/>
     <category term="kubernetes"/>
     <category term="terraform"/>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/az/canary</id>
+        <title>az @ canary</title>
+        <updated>2022-01-07T15:39:05Z</updated>
+        <category term="az"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-windows-amd64.exe" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/exec/canary</id>
         <title>exec @ canary</title>
@@ -439,16 +449,6 @@
         <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.5.2/az-darwin-amd64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.5.2/az-linux-amd64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/az/v0.5.2/az-windows-amd64.exe" />
-    </entry>
-    <entry>
-        <id>https://cdn.porter.sh/mixins/az/canary</id>
-        <title>az @ canary</title>
-        <updated>2021-04-08T16:16:37Z</updated>
-        <category term="az"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-windows-amd64.exe" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/exec/v0.37.2</id>
