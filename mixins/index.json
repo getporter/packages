@@ -88,5 +88,11 @@
     "author": "Porter Authors",
     "description": "A mixin for using the docker cli",
     "URL": "https://cdn.porter.sh/mixins/atom.xml"
+  },
+  {
+    "name": "ansible",
+    "author": "LvffY",
+    "description": "A mixin for using the ansible cli",
+    "URL": "https://github.com/LvffY/ansible-mixin/releases/download"
   }
 ]
