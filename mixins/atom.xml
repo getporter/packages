@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Mixins</title>
-    <updated>2022-03-10T15:29:38Z</updated>
+    <updated>2022-03-10T15:31:12Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -19,6 +19,16 @@
     <category term="helm2"/>
     <category term="kubernetes"/>
     <category term="terraform"/>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/docker-compose/v0.4.3</id>
+        <title>docker-compose @ v0.4.3</title>
+        <updated>2022-03-10T15:31:12Z</updated>
+        <category term="docker-compose"/>
+        <content>v0.4.3</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/v0.4.3/docker-compose-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/v0.4.3/docker-compose-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/v0.4.3/docker-compose-windows-amd64.exe" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/kubernetes/canary</id>
         <title>kubernetes @ canary</title>
