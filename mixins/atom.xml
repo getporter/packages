@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Mixins</title>
-    <updated>2022-03-10T19:40:16Z</updated>
+    <updated>2022-03-11T18:21:13Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -19,6 +19,16 @@
     <category term="helm2"/>
     <category term="kubernetes"/>
     <category term="terraform"/>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/aws/canary</id>
+        <title>aws @ canary</title>
+        <updated>2022-03-11T18:21:13Z</updated>
+        <category term="aws"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-windows-amd64.exe" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/az/v0.7.2</id>
         <title>az @ v0.7.2</title>
@@ -259,16 +269,6 @@
         <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/v0.4.2/docker-compose-darwin-amd64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/v0.4.2/docker-compose-linux-amd64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/v0.4.2/docker-compose-windows-amd64.exe" />
-    </entry>
-    <entry>
-        <id>https://cdn.porter.sh/mixins/aws/canary</id>
-        <title>aws @ canary</title>
-        <updated>2022-01-05T19:39:38Z</updated>
-        <category term="aws"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-windows-amd64.exe" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/exec/v0.38.8</id>
