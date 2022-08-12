@@ -1,11 +1,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://getporter.org/mixins</id>
+    <id>https://porter.sh</id>
     <title>Porter Mixins</title>
-    <updated>2022-08-04T20:03:54Z</updated>
+    <updated>2022-08-12T18:41:42Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
-        <uri>https://getporter.org/mixins</uri>
+        <uri>https://porter.sh/mixins</uri>
     </author>
     <category term="arm"/>
     <category term="aws"/>
@@ -19,6 +19,16 @@
     <category term="helm2"/>
     <category term="kubernetes"/>
     <category term="terraform"/>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/terraform/canary</id>
+        <title>terraform @ canary</title>
+        <updated>2022-08-12T18:41:42Z</updated>
+        <category term="terraform"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/canary/terraform-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/canary/terraform-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/canary/terraform-windows-amd64.exe" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/exec/v1.0.0-beta.3</id>
         <title>exec @ v1.0.0-beta.3</title>
@@ -362,16 +372,6 @@
         <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.9.1/terraform-darwin-amd64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.9.1/terraform-linux-amd64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v0.9.1/terraform-windows-amd64.exe" />
-    </entry>
-    <entry>
-        <id>https://cdn.porter.sh/mixins/terraform/canary</id>
-        <title>terraform @ canary</title>
-        <updated>2022-03-04T14:05:12Z</updated>
-        <category term="terraform"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/canary/terraform-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/canary/terraform-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/canary/terraform-windows-amd64.exe" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/exec/v1.0.0-alpha.12</id>
