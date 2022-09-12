@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Plugins</title>
-    <updated>2022-09-08T21:00:23Z</updated>
+    <updated>2022-09-12T14:33:40Z</updated>
     <link rel="self" href="https://cdn.porter.sh/plugins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -9,6 +9,16 @@
     </author>
     <category term="azure"/>
     <category term="kubernetes"/>
+    <entry>
+        <id>https://cdn.porter.sh/plugins/kubernetes/canary</id>
+        <title>kubernetes @ canary</title>
+        <updated>2022-09-12T14:33:40Z</updated>
+        <category term="kubernetes"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/plugins/kubernetes/canary/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/kubernetes/canary/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/kubernetes/canary/kubernetes-windows-amd64.exe" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/plugins/kubernetes/v1.0.0-rc.1</id>
         <title>kubernetes @ v1.0.0-rc.1</title>
@@ -44,16 +54,6 @@
         <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-darwin-amd64" />
         <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-linux-amd64" />
         <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-windows-amd64.exe" />
-    </entry>
-    <entry>
-        <id>https://cdn.porter.sh/plugins/kubernetes/canary</id>
-        <title>kubernetes @ canary</title>
-        <updated>2022-09-08T20:32:27Z</updated>
-        <category term="kubernetes"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/plugins/kubernetes/canary/kubernetes-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/plugins/kubernetes/canary/kubernetes-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/plugins/kubernetes/canary/kubernetes-windows-amd64.exe" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/plugins/kubernetes/v1.0.0-beta.3</id>
