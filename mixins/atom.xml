@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Mixins</title>
-    <updated>2022-09-21T20:25:50Z</updated>
+    <updated>2022-09-21T20:26:02Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -19,6 +19,16 @@
     <category term="helm2"/>
     <category term="kubernetes"/>
     <category term="terraform"/>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/aws/canary</id>
+        <title>aws @ canary</title>
+        <updated>2022-09-21T20:26:02Z</updated>
+        <category term="aws"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-windows-amd64.exe" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/arm/canary</id>
         <title>arm @ canary</title>
@@ -174,16 +184,6 @@
         <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.0-rc.1/kubernetes-darwin-amd64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.0-rc.1/kubernetes-linux-amd64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.0-rc.1/kubernetes-windows-amd64.exe" />
-    </entry>
-    <entry>
-        <id>https://cdn.porter.sh/mixins/aws/canary</id>
-        <title>aws @ canary</title>
-        <updated>2022-09-09T18:56:21Z</updated>
-        <category term="aws"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-windows-amd64.exe" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/exec/v1.0.0-rc.1</id>
