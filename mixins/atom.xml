@@ -1,11 +1,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://porter.sh/mixins</id>
+    <id>https://getporter.org/mixins</id>
     <title>Porter Mixins</title>
-    <updated>2022-09-21T16:32:41Z</updated>
+    <updated>2022-09-21T17:57:50Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
-        <uri>https://porter.sh/mixins</uri>
+        <uri>https://getporter.org/mixins</uri>
     </author>
     <category term="arm"/>
     <category term="aws"/>
@@ -19,6 +19,19 @@
     <category term="helm2"/>
     <category term="kubernetes"/>
     <category term="terraform"/>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v1.0.0-rc.2</id>
+        <title>exec @ v1.0.0-rc.2</title>
+        <updated>2022-09-21T17:57:50Z</updated>
+        <category term="exec"/>
+        <content>v1.0.0-rc.2</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1.0.0-rc.2/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1.0.0-rc.2/exec-darwin-amd64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1.0.0-rc.2/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1.0.0-rc.2/exec-linux-amd64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1.0.0-rc.2/exec-windows-amd64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1.0.0-rc.2/exec-windows-amd64.exe.sha256sum" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/exec/v0.38.13</id>
         <title>exec @ v0.38.13</title>
