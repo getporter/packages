@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Plugins</title>
-    <updated>2023-01-12T21:58:25Z</updated>
+    <updated>2023-01-18T18:16:30Z</updated>
     <link rel="self" href="https://cdn.porter.sh/plugins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -12,7 +12,7 @@
     <entry>
         <id>https://cdn.porter.sh/plugins/kubernetes/canary</id>
         <title>kubernetes @ canary</title>
-        <updated>2023-01-12T21:58:25Z</updated>
+        <updated>2023-01-18T18:16:30Z</updated>
         <category term="kubernetes"/>
         <content>canary</content>
         <link rel="download" href="https://cdn.porter.sh/plugins/kubernetes/canary/kubernetes-darwin-amd64" />
