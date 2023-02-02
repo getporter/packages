@@ -1,11 +1,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://porter.sh</id>
+    <id>https://getporter.org/mixins</id>
     <title>Porter Mixins</title>
-    <updated>2023-02-01T21:25:48Z</updated>
+    <updated>2023-02-02T17:32:07Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
-        <uri>https://porter.sh/mixins</uri>
+        <uri>https://getporter.org/mixins</uri>
     </author>
     <category term="arm"/>
     <category term="aws"/>
@@ -20,6 +20,17 @@
     <category term="kubernetes"/>
     <category term="terraform"/>
     <entry>
+        <id>https://cdn.porter.sh/mixins/exec/canary</id>
+        <title>exec @ canary</title>
+        <updated>2023-02-02T17:32:07Z</updated>
+        <category term="exec"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-windows-amd64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-windows-amd64" />
+    </entry>
+    <entry>
         <id>https://cdn.porter.sh/mixins/kubernetes/canary</id>
         <title>kubernetes @ canary</title>
         <updated>2023-02-01T21:25:48Z</updated>
@@ -28,17 +39,6 @@
         <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-darwin-amd64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-linux-amd64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-windows-amd64.exe" />
-    </entry>
-    <entry>
-        <id>https://cdn.porter.sh/mixins/exec/canary</id>
-        <title>exec @ canary</title>
-        <updated>2023-02-01T17:44:46Z</updated>
-        <category term="exec"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-windows-amd64.exe" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-windows-amd64" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/exec/v1.0.7</id>
