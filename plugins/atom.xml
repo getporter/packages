@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Plugins</title>
-    <updated>2023-02-23T21:47:29Z</updated>
+    <updated>2023-02-23T22:23:57Z</updated>
     <link rel="self" href="https://cdn.porter.sh/plugins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -9,6 +9,16 @@
     </author>
     <category term="azure"/>
     <category term="kubernetes"/>
+    <entry>
+        <id>https://cdn.porter.sh/plugins/azure/canary</id>
+        <title>azure @ canary</title>
+        <updated>2023-02-23T22:23:57Z</updated>
+        <category term="azure"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-windows-amd64.exe" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/plugins/azure/v1.1.1</id>
         <title>azure @ v1.1.1</title>
@@ -21,16 +31,6 @@
         <link rel="download" href="https://cdn.porter.sh/plugins/azure/v1.1.1/azure-linux-amd64.sha256sum" />
         <link rel="download" href="https://cdn.porter.sh/plugins/azure/v1.1.1/azure-windows-amd64.exe" />
         <link rel="download" href="https://cdn.porter.sh/plugins/azure/v1.1.1/azure-windows-amd64.exe.sha256sum" />
-    </entry>
-    <entry>
-        <id>https://cdn.porter.sh/plugins/azure/canary</id>
-        <title>azure @ canary</title>
-        <updated>2023-02-23T16:29:29Z</updated>
-        <category term="azure"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-windows-amd64.exe" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/plugins/kubernetes/canary</id>
