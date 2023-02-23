@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Mixins</title>
-    <updated>2023-02-23T21:31:39Z</updated>
+    <updated>2023-02-23T21:32:36Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -19,6 +19,19 @@
     <category term="helm2"/>
     <category term="kubernetes"/>
     <category term="terraform"/>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v1.0.1</id>
+        <title>kubernetes @ v1.0.1</title>
+        <updated>2023-02-23T21:32:36Z</updated>
+        <category term="kubernetes"/>
+        <content>v1.0.1</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.1/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.1/kubernetes-darwin-amd64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.1/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.1/kubernetes-linux-amd64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.1/kubernetes-windows-amd64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.1/kubernetes-windows-amd64.exe.sha256sum" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/gcloud/v1.0.1</id>
         <title>gcloud @ v1.0.1</title>
