@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Mixins</title>
-    <updated>2023-02-23T21:03:50Z</updated>
+    <updated>2023-02-23T21:16:53Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -19,6 +19,16 @@
     <category term="helm2"/>
     <category term="kubernetes"/>
     <category term="terraform"/>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/canary</id>
+        <title>kubernetes @ canary</title>
+        <updated>2023-02-23T21:16:53Z</updated>
+        <category term="kubernetes"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-windows-amd64.exe" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/terraform/v1.0.2</id>
         <title>terraform @ v1.0.2</title>
@@ -114,16 +124,6 @@
         <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-darwin-amd64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-linux-amd64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-windows-amd64.exe" />
-    </entry>
-    <entry>
-        <id>https://cdn.porter.sh/mixins/kubernetes/canary</id>
-        <title>kubernetes @ canary</title>
-        <updated>2023-02-23T14:51:33Z</updated>
-        <category term="kubernetes"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-windows-amd64.exe" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/exec/v1.0.9</id>
