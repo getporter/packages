@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Mixins</title>
-    <updated>2023-02-23T14:52:24Z</updated>
+    <updated>2023-02-23T14:53:27Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -19,6 +19,16 @@
     <category term="helm2"/>
     <category term="kubernetes"/>
     <category term="terraform"/>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/gcloud/canary</id>
+        <title>gcloud @ canary</title>
+        <updated>2023-02-23T14:53:27Z</updated>
+        <category term="gcloud"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-windows-amd64.exe" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/docker/canary</id>
         <title>docker @ canary</title>
@@ -375,16 +385,6 @@
         <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/canary/docker-compose-darwin-amd64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/canary/docker-compose-linux-amd64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/canary/docker-compose-windows-amd64.exe" />
-    </entry>
-    <entry>
-        <id>https://cdn.porter.sh/mixins/gcloud/canary</id>
-        <title>gcloud @ canary</title>
-        <updated>2022-10-17T20:54:54Z</updated>
-        <category term="gcloud"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-windows-amd64.exe" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/arm/canary</id>
