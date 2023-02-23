@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Mixins</title>
-    <updated>2023-02-23T23:16:58Z</updated>
+    <updated>2023-02-23T23:16:59Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -19,6 +19,16 @@
     <category term="helm2"/>
     <category term="kubernetes"/>
     <category term="terraform"/>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/arm/canary</id>
+        <title>arm @ canary</title>
+        <updated>2023-02-23T23:16:59Z</updated>
+        <category term="arm"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-windows-amd64.exe" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/aws/canary</id>
         <title>aws @ canary</title>
@@ -166,16 +176,6 @@
         <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-darwin-amd64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-linux-amd64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-windows-amd64.exe" />
-    </entry>
-    <entry>
-        <id>https://cdn.porter.sh/mixins/arm/canary</id>
-        <title>arm @ canary</title>
-        <updated>2023-02-23T15:29:03Z</updated>
-        <category term="arm"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-windows-amd64.exe" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/exec/v1.0.9</id>
