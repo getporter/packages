@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Plugins</title>
-    <updated>2023-02-24T18:16:29Z</updated>
+    <updated>2023-02-27T15:37:13Z</updated>
     <link rel="self" href="https://cdn.porter.sh/plugins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -9,6 +9,16 @@
     </author>
     <category term="azure"/>
     <category term="kubernetes"/>
+    <entry>
+        <id>https://cdn.porter.sh/plugins/kubernetes/canary</id>
+        <title>kubernetes @ canary</title>
+        <updated>2023-02-27T15:37:13Z</updated>
+        <category term="kubernetes"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/plugins/kubernetes/canary/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/kubernetes/canary/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/kubernetes/canary/kubernetes-windows-amd64.exe" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/plugins/kubernetes/v1.0.2</id>
         <title>kubernetes @ v1.0.2</title>
@@ -21,16 +31,6 @@
         <link rel="download" href="https://cdn.porter.sh/plugins/kubernetes/v1.0.2/kubernetes-linux-amd64.sha256sum" />
         <link rel="download" href="https://cdn.porter.sh/plugins/kubernetes/v1.0.2/kubernetes-windows-amd64.exe" />
         <link rel="download" href="https://cdn.porter.sh/plugins/kubernetes/v1.0.2/kubernetes-windows-amd64.exe.sha256sum" />
-    </entry>
-    <entry>
-        <id>https://cdn.porter.sh/plugins/kubernetes/canary</id>
-        <title>kubernetes @ canary</title>
-        <updated>2023-02-24T17:57:38Z</updated>
-        <category term="kubernetes"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/plugins/kubernetes/canary/kubernetes-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/plugins/kubernetes/canary/kubernetes-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/plugins/kubernetes/canary/kubernetes-windows-amd64.exe" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/plugins/azure/v1.1.2</id>
