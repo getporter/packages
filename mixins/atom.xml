@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Mixins</title>
-    <updated>2023-04-14T13:32:17Z</updated>
+    <updated>2023-04-14T13:34:27Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -19,6 +19,16 @@
     <category term="helm2"/>
     <category term="kubernetes"/>
     <category term="terraform"/>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/arm/canary</id>
+        <title>arm @ canary</title>
+        <updated>2023-04-14T13:34:27Z</updated>
+        <category term="arm"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-windows-amd64.exe" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/aws/canary</id>
         <title>aws @ canary</title>
@@ -125,16 +135,6 @@
         <link rel="download" href="https://cdn.porter.sh/mixins/aws/v1.0.1/aws-linux-amd64.sha256sum" />
         <link rel="download" href="https://cdn.porter.sh/mixins/aws/v1.0.1/aws-windows-amd64.exe" />
         <link rel="download" href="https://cdn.porter.sh/mixins/aws/v1.0.1/aws-windows-amd64.exe.sha256sum" />
-    </entry>
-    <entry>
-        <id>https://cdn.porter.sh/mixins/arm/canary</id>
-        <title>arm @ canary</title>
-        <updated>2023-02-23T23:16:59Z</updated>
-        <category term="arm"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-windows-amd64.exe" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/docker-compose/v1.0.1</id>
