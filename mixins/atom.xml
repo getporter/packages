@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Mixins</title>
-    <updated>2023-04-14T14:14:50Z</updated>
+    <updated>2023-04-14T14:24:53Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -19,6 +19,19 @@
     <category term="helm2"/>
     <category term="kubernetes"/>
     <category term="terraform"/>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/terraform/v1.0.3</id>
+        <title>terraform @ v1.0.3</title>
+        <updated>2023-04-14T14:24:53Z</updated>
+        <category term="terraform"/>
+        <content>v1.0.3</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v1.0.3/terraform-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v1.0.3/terraform-darwin-amd64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v1.0.3/terraform-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v1.0.3/terraform-linux-amd64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v1.0.3/terraform-windows-amd64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v1.0.3/terraform-windows-amd64.exe.sha256sum" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/terraform/canary</id>
         <title>terraform @ canary</title>
