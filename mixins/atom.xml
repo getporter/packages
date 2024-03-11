@@ -57,6 +57,25 @@
         <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.3/kubernetes-windows-amd64.exe.sha256sum" />
     </entry>
     <entry>
+        <id>https://cdn.porter.sh/mixins/exec/v1.0.16</id>
+        <title>exec @ v1.0.16</title>
+        <updated>2024-03-09T03:26:05Z</updated>
+        <category term="exec"/>
+        <content>v1.0.16</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1.0.16/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1.0.16/exec-darwin-amd64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1.0.16/exec-darwin-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1.0.16/exec-darwin-arm64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1.0.16/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1.0.16/exec-linux-amd64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1.0.16/exec-linux-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1.0.16/exec-linux-arm64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1.0.16/exec-windows-amd64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1.0.16/exec-windows-amd64.exe.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1.0.16/exec-windows-arm64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1.0.16/exec-windows-arm64.exe.sha256sum" />
+    </entry>
+    <entry>
         <id>https://cdn.porter.sh/mixins/exec/v1.0.15</id>
         <title>exec @ v1.0.15</title>
         <updated>2023-07-14T03:26:05Z</updated>
