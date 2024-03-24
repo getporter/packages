@@ -94,5 +94,11 @@
     "author": "LvffY",
     "description": "A mixin for using the ansible cli",
     "URL": "https://github.com/LvffY/ansible-mixin/releases/download"
+  },
+  {
+    "name": "powershell",
+    "author": "Kim Christensen",
+    "description": "A mixin for using Powershell Core",
+    "URL": "https://github.com/kichristensen/pwsh-mixin/releases/download"
   }
 ]
