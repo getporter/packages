@@ -59,9 +59,9 @@
     <entry>
         <id>https://cdn.porter.sh/mixins/exec/v1.0.17</id>
         <title>exec @ v1.0.17</title>
-        <updated>2024-03-09T03:26:05Z</updated>
+        <updated>2024-03-29T19:40:05Z</updated>
         <category term="exec"/>
-        <content>v1.0.16</content>
+        <content>v1.0.17</content>
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1.0.17/exec-darwin-amd64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1.0.17/exec-darwin-amd64.sha256sum" />
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1.0.17/exec-darwin-arm64" />
