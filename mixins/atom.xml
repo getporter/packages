@@ -1,11 +1,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://getporter.org/mixins</id>
+    <id>https://porter.sh/mixins</id>
     <title>Porter Mixins</title>
-    <updated>2023-12-06T02:50:42Z</updated>
+    <updated>2024-05-30T20:53:39Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
-        <uri>https://getporter.org/mixins</uri>
+        <uri>https://porter.sh/mixins</uri>
     </author>
     <category term="arm"/>
     <category term="aws"/>
@@ -22,7 +22,7 @@
     <entry>
         <id>https://cdn.porter.sh/mixins/exec/canary</id>
         <title>exec @ canary</title>
-        <updated>2023-12-06T02:50:42Z</updated>
+        <updated>2024-05-30T20:53:39Z</updated>
         <category term="exec"/>
         <content>canary</content>
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-darwin-amd64" />
@@ -32,29 +32,6 @@
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-darwin-arm64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-linux-arm64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-windows-arm64.exe" />
-    </entry>
-    <entry>
-        <id>https://cdn.porter.sh/mixins/kubernetes/canary</id>
-        <title>kubernetes @ canary</title>
-        <updated>2023-10-20T19:30:04Z</updated>
-        <category term="kubernetes"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-windows-amd64.exe" />
-    </entry>
-    <entry>
-        <id>https://cdn.porter.sh/mixins/kubernetes/v1.0.3</id>
-        <title>kubernetes @ v1.0.3</title>
-        <updated>2023-07-27T19:38:38Z</updated>
-        <category term="kubernetes"/>
-        <content>v1.0.3</content>
-        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.3/kubernetes-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.3/kubernetes-darwin-amd64.sha256sum" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.3/kubernetes-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.3/kubernetes-linux-amd64.sha256sum" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.3/kubernetes-windows-amd64.exe" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.3/kubernetes-windows-amd64.exe.sha256sum" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/exec/v1.0.17</id>
@@ -93,6 +70,29 @@
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1.0.16/exec-windows-amd64.exe.sha256sum" />
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1.0.16/exec-windows-arm64.exe" />
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1.0.16/exec-windows-arm64.exe.sha256sum" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/canary</id>
+        <title>kubernetes @ canary</title>
+        <updated>2023-10-20T19:30:04Z</updated>
+        <category term="kubernetes"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-windows-amd64.exe" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v1.0.3</id>
+        <title>kubernetes @ v1.0.3</title>
+        <updated>2023-07-27T19:38:38Z</updated>
+        <category term="kubernetes"/>
+        <content>v1.0.3</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.3/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.3/kubernetes-darwin-amd64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.3/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.3/kubernetes-linux-amd64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.3/kubernetes-windows-amd64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.3/kubernetes-windows-amd64.exe.sha256sum" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/exec/v1.0.15</id>
