@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://porter.sh</id>
+    <id>https://porter.sh/mixins</id>
     <title>Porter Mixins</title>
-    <updated>2024-06-12T20:09:04Z</updated>
+    <updated>2024-06-13T16:31:00Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -19,6 +19,26 @@
     <category term="helm2"/>
     <category term="kubernetes"/>
     <category term="terraform"/>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/exec/canary</id>
+        <title>exec @ canary</title>
+        <updated>2024-06-13T16:31:00Z</updated>
+        <category term="exec"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-windows-amd64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-windows-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-darwin-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-linux-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-windows-arm64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-darwin-amd64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-darwin-arm64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-linux-amd64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-linux-arm64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-windows-amd64.exe.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-windows-arm64.exe.sha256sum" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/az/canary</id>
         <title>az @ canary</title>
@@ -83,20 +103,6 @@
         <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-darwin-arm64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-linux-arm64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-windows-arm64.exe" />
-    </entry>
-    <entry>
-        <id>https://cdn.porter.sh/mixins/exec/canary</id>
-        <title>exec @ canary</title>
-        <updated>2024-06-09T21:01:09Z</updated>
-        <category term="exec"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-windows-amd64.exe" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-windows-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-darwin-arm64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-linux-arm64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-windows-arm64.exe" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/docker/canary</id>
