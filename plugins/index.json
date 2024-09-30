@@ -2,7 +2,7 @@
   {
     "name": "azure",
     "author": "Porter Authors",
-    "description": "Integrate Porter with Azure. Store Porter's data in Azure Cloud and secure your bundle's secrets in Azure Key Vault.",
+    "description": "Integrate Porter with Azure. Let you secure your bundle's secrets in Azure Key Vault.",
     "URL": "https://cdn.porter.sh/plugins/atom.xml"
   },
   {
@@ -14,7 +14,7 @@
   {
     "name": "kubernetes",
     "author": "Porter Authors",
-    "description": "Integrates Porter with Kubernetes. Store Porter's data and your bundle's secrets in Kubernetes Secret Resources.",
+    "description": "Integrates Porter with Kubernetes. Let you secure your bundle's secrets in Kubernetes Secret Resources.",
     "URL": "https://cdn.porter.sh/plugins/atom.xml"
   }
 ]
