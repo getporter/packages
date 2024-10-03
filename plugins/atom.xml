@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Plugins</title>
-    <updated>2024-10-03T16:10:42Z</updated>
+    <updated>2024-10-03T16:17:56Z</updated>
     <link rel="self" href="https://cdn.porter.sh/plugins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -9,6 +9,25 @@
     </author>
     <category term="azure"/>
     <category term="kubernetes"/>
+    <entry>
+        <id>https://cdn.porter.sh/plugins/azure/v1.2.3</id>
+        <title>azure @ v1.2.3</title>
+        <updated>2024-10-03T16:17:56Z</updated>
+        <category term="azure"/>
+        <content>v1.2.3</content>
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v1.2.3/azure-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v1.2.3/azure-darwin-amd64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v1.2.3/azure-darwin-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v1.2.3/azure-darwin-arm64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v1.2.3/azure-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v1.2.3/azure-linux-amd64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v1.2.3/azure-linux-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v1.2.3/azure-linux-arm64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v1.2.3/azure-windows-amd64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v1.2.3/azure-windows-amd64.exe.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v1.2.3/azure-windows-arm64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/v1.2.3/azure-windows-arm64.exe.sha256sum" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/plugins/azure/canary</id>
         <title>azure @ canary</title>
