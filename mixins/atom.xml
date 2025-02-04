@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Mixins</title>
-    <updated>2025-02-04T13:54:43Z</updated>
+    <updated>2025-02-04T20:02:00Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -20,6 +20,19 @@
     <category term="kubernetes"/>
     <category term="terraform"/>
     <category term="tofu"/>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/docker/canary</id>
+        <title>docker @ canary</title>
+        <updated>2025-02-04T20:02:00Z</updated>
+        <category term="docker"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker/canary/docker-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker/canary/docker-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker/canary/docker-windows-amd64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker/canary/docker-darwin-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker/canary/docker-linux-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker/canary/docker-windows-arm64.exe" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/gcloud/canary</id>
         <title>gcloud @ canary</title>
@@ -84,19 +97,6 @@
         <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/canary/docker-compose-darwin-arm64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/canary/docker-compose-linux-arm64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/canary/docker-compose-windows-arm64.exe" />
-    </entry>
-    <entry>
-        <id>https://cdn.porter.sh/mixins/docker/canary</id>
-        <title>docker @ canary</title>
-        <updated>2025-02-03T08:16:14Z</updated>
-        <category term="docker"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/mixins/docker/canary/docker-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/docker/canary/docker-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/docker/canary/docker-windows-amd64.exe" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/docker/canary/docker-darwin-arm64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/docker/canary/docker-linux-arm64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/docker/canary/docker-windows-arm64.exe" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/exec/canary</id>
