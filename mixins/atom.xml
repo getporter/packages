@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Mixins</title>
-    <updated>2025-03-27T22:49:10Z</updated>
+    <updated>2025-03-27T22:49:49Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -20,6 +20,19 @@
     <category term="kubernetes"/>
     <category term="terraform"/>
     <category term="tofu"/>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/gcloud/canary</id>
+        <title>gcloud @ canary</title>
+        <updated>2025-03-27T22:49:49Z</updated>
+        <category term="gcloud"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-windows-amd64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-darwin-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-linux-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-windows-arm64.exe" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/kubernetes/canary</id>
         <title>kubernetes @ canary</title>
@@ -130,19 +143,6 @@
         <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-darwin-arm64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-linux-arm64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-windows-arm64.exe" />
-    </entry>
-    <entry>
-        <id>https://cdn.porter.sh/mixins/gcloud/canary</id>
-        <title>gcloud @ canary</title>
-        <updated>2025-02-10T08:29:52Z</updated>
-        <category term="gcloud"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-windows-amd64.exe" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-darwin-arm64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-linux-arm64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-windows-arm64.exe" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/terraform/canary</id>
