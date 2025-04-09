@@ -72,12 +72,6 @@
     "URL": "https://cdn.porter.sh/mixins/atom.xml"
   },
   {
-    "name": "kustomize",
-    "author": "Don Stewart",
-    "description": "A mixin for using the kustomize cli",
-    "URL": "https://github.com/donmstewart/porter-kustomize/releases/download"
-  },
-  {
     "name": "terraform",
     "author": "Porter Authors",
     "description": "A mixin for using the terraform cli",
