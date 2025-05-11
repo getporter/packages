@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Plugins</title>
-    <updated>2025-05-11T16:08:36Z</updated>
+    <updated>2025-05-11T16:18:13Z</updated>
     <link rel="self" href="https://cdn.porter.sh/plugins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -13,7 +13,7 @@
     <entry>
         <id>https://cdn.porter.sh/plugins/azure/canary</id>
         <title>azure @ canary</title>
-        <updated>2025-05-11T16:08:36Z</updated>
+        <updated>2025-05-11T16:18:13Z</updated>
         <category term="azure"/>
         <content>canary</content>
         <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-darwin-amd64" />
