@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Mixins</title>
-    <updated>2025-05-28T20:55:15Z</updated>
+    <updated>2025-05-28T21:05:48Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -23,7 +23,7 @@
     <entry>
         <id>https://cdn.porter.sh/mixins/kubernetes/canary</id>
         <title>kubernetes @ canary</title>
-        <updated>2025-05-28T20:55:15Z</updated>
+        <updated>2025-05-28T21:05:48Z</updated>
         <category term="kubernetes"/>
         <content>canary</content>
         <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-darwin-amd64" />
