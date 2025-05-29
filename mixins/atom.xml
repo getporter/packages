@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Mixins</title>
-    <updated>2025-05-28T21:05:48Z</updated>
+    <updated>2025-05-29T20:04:02Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -20,6 +20,19 @@
     <category term="kubernetes"/>
     <category term="terraform"/>
     <category term="tofu"/>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/tofu/canary</id>
+        <title>tofu @ canary</title>
+        <updated>2025-05-29T20:04:02Z</updated>
+        <category term="tofu"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/tofu/canary/tofu-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/tofu/canary/tofu-darwin-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/tofu/canary/tofu-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/tofu/canary/tofu-linux-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/tofu/canary/tofu-windows-amd64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/tofu/canary/tofu-windows-arm64.exe" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/kubernetes/canary</id>
         <title>kubernetes @ canary</title>
@@ -143,19 +156,6 @@
         <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-darwin-arm64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-linux-arm64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-windows-arm64.exe" />
-    </entry>
-    <entry>
-        <id>https://cdn.porter.sh/mixins/tofu/canary</id>
-        <title>tofu @ canary</title>
-        <updated>2025-03-27T22:47:23Z</updated>
-        <category term="tofu"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/mixins/tofu/canary/tofu-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/tofu/canary/tofu-darwin-arm64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/tofu/canary/tofu-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/tofu/canary/tofu-linux-arm64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/tofu/canary/tofu-windows-amd64.exe" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/tofu/canary/tofu-windows-arm64.exe" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/az/v1.0.5</id>
