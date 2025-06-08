@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://porter.sh</id>
+    <id>https://porter.sh/mixins</id>
     <title>Porter Mixins</title>
-    <updated>2025-06-08T14:58:11Z</updated>
+    <updated>2025-06-08T16:32:53Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -21,22 +21,9 @@
     <category term="terraform"/>
     <category term="tofu"/>
     <entry>
-        <id>https://cdn.porter.sh/mixins/arm/canary</id>
-        <title>arm @ canary</title>
-        <updated>2025-06-08T14:58:11Z</updated>
-        <category term="arm"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-windows-amd64.exe" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-darwin-arm64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-linux-arm64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-windows-arm64.exe" />
-    </entry>
-    <entry>
         <id>https://cdn.porter.sh/mixins/exec/canary</id>
         <title>exec @ canary</title>
-        <updated>2025-06-03T22:03:01Z</updated>
+        <updated>2025-06-08T16:32:53Z</updated>
         <category term="exec"/>
         <content>canary</content>
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-darwin-amd64" />
@@ -52,6 +39,19 @@
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-linux-arm64.sha256sum" />
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-windows-amd64.exe.sha256sum" />
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-windows-arm64.exe.sha256sum" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/arm/canary</id>
+        <title>arm @ canary</title>
+        <updated>2025-06-08T14:58:11Z</updated>
+        <category term="arm"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-windows-amd64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-darwin-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-linux-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-windows-arm64.exe" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/az/canary</id>
