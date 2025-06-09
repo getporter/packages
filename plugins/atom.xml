@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Plugins</title>
-    <updated>2025-06-09T19:53:32Z</updated>
+    <updated>2025-06-09T20:01:37Z</updated>
     <link rel="self" href="https://cdn.porter.sh/plugins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -13,7 +13,7 @@
     <entry>
         <id>https://cdn.porter.sh/plugins/aws/canary</id>
         <title>aws @ canary</title>
-        <updated>2025-06-09T19:53:32Z</updated>
+        <updated>2025-06-09T20:01:37Z</updated>
         <category term="aws"/>
         <content>canary</content>
         <link rel="download" href="https://cdn.porter.sh/plugins/aws/canary/aws-darwin-amd64" />
