@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Mixins</title>
-    <updated>2025-08-15T12:04:51Z</updated>
+    <updated>2025-08-15T12:05:29Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -20,6 +20,19 @@
     <category term="kubernetes"/>
     <category term="terraform"/>
     <category term="tofu"/>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/docker-compose/canary</id>
+        <title>docker-compose @ canary</title>
+        <updated>2025-08-15T12:05:29Z</updated>
+        <category term="docker-compose"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/canary/docker-compose-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/canary/docker-compose-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/canary/docker-compose-windows-amd64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/canary/docker-compose-darwin-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/canary/docker-compose-linux-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/canary/docker-compose-windows-arm64.exe" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/docker/canary</id>
         <title>docker @ canary</title>
@@ -149,19 +162,6 @@
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1.3.0/exec-windows-amd64.exe.sha256sum" />
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1.3.0/exec-windows-arm64.exe" />
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/v1.3.0/exec-windows-arm64.exe.sha256sum" />
-    </entry>
-    <entry>
-        <id>https://cdn.porter.sh/mixins/docker-compose/canary</id>
-        <title>docker-compose @ canary</title>
-        <updated>2025-06-29T18:29:35Z</updated>
-        <category term="docker-compose"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/canary/docker-compose-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/canary/docker-compose-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/canary/docker-compose-windows-amd64.exe" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/canary/docker-compose-darwin-arm64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/canary/docker-compose-linux-arm64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/docker-compose/canary/docker-compose-windows-arm64.exe" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/aws/canary</id>
