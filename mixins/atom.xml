@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://porter.sh</id>
+    <id>https://porter.sh/mixins</id>
     <title>Porter Mixins</title>
-    <updated>2025-08-20T07:11:55Z</updated>
+    <updated>2025-08-20T07:41:30Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -21,22 +21,9 @@
     <category term="terraform"/>
     <category term="tofu"/>
     <entry>
-        <id>https://cdn.porter.sh/mixins/aws/canary</id>
-        <title>aws @ canary</title>
-        <updated>2025-08-20T07:11:55Z</updated>
-        <category term="aws"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-windows-amd64.exe" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-darwin-arm64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-linux-arm64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-windows-arm64.exe" />
-    </entry>
-    <entry>
         <id>https://cdn.porter.sh/mixins/exec/canary</id>
         <title>exec @ canary</title>
-        <updated>2025-08-16T18:22:49Z</updated>
+        <updated>2025-08-20T07:41:30Z</updated>
         <category term="exec"/>
         <content>canary</content>
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-darwin-amd64" />
@@ -52,6 +39,19 @@
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-linux-arm64.sha256sum" />
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-windows-amd64.exe.sha256sum" />
         <link rel="download" href="https://cdn.porter.sh/mixins/exec/canary/exec-windows-arm64.exe.sha256sum" />
+    </entry>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/aws/canary</id>
+        <title>aws @ canary</title>
+        <updated>2025-08-20T07:11:55Z</updated>
+        <category term="aws"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-windows-amd64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-darwin-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-linux-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/aws/canary/aws-windows-arm64.exe" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/gcloud/v1.0.3</id>
