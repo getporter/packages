@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Mixins</title>
-    <updated>2025-11-10T21:41:08Z</updated>
+    <updated>2025-11-10T21:41:47Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -20,6 +20,19 @@
     <category term="kubernetes"/>
     <category term="terraform"/>
     <category term="tofu"/>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/canary</id>
+        <title>kubernetes @ canary</title>
+        <updated>2025-11-10T21:41:47Z</updated>
+        <category term="kubernetes"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-windows-amd64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-darwin-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-linux-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-windows-arm64.exe" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/docker-compose/canary</id>
         <title>docker-compose @ canary</title>
@@ -78,19 +91,6 @@
         <link rel="download" href="https://cdn.porter.sh/mixins/docker/canary/docker-darwin-arm64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/docker/canary/docker-linux-arm64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/docker/canary/docker-windows-arm64.exe" />
-    </entry>
-    <entry>
-        <id>https://cdn.porter.sh/mixins/kubernetes/canary</id>
-        <title>kubernetes @ canary</title>
-        <updated>2025-09-21T21:45:18Z</updated>
-        <category term="kubernetes"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-windows-amd64.exe" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-darwin-arm64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-linux-arm64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-windows-arm64.exe" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/terraform/canary</id>
