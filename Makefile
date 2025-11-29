@@ -7,6 +7,10 @@ test:
 	@cat mixins/index.json | jq -r '.' > /dev/null
 	$(info validating plugins list is well-formed JSON)
 	@cat plugins/index.json | jq -r '.' > /dev/null
+	$(info validating mixins list against JSON Schema)
+	@npx --yes ajv-cli validate -s schema.json -d mixins/index.json
+	$(info validating plugins list against JSON Schema)
+	@npx --yes ajv-cli validate -s schema.json -d plugins/index.json
 
 .PHONY: publish
 publish:

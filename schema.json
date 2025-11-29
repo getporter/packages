@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://porter.sh/schemas/packages.json",
+  "title": "Porter Package List",
+  "description": "Schema for Porter mixin and plugin package lists",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["name", "author", "description", "URL"],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "The name of the mixin or plugin",
+        "minLength": 1
+      },
+      "author": {
+        "type": "string",
+        "description": "The author or maintainer of the package",
+        "minLength": 1
+      },
+      "description": {
+        "type": "string",
+        "description": "A brief description of what the package does",
+        "minLength": 1
+      },
+      "URL": {
+        "type": "string",
+        "description": "The URL to either an Atom feed or download directory for the package",
+        "minLength": 1,
+        "pattern": "^https?://"
+      }
+    },
+    "additionalProperties": false
+  },
+  "minItems": 1
+}
