@@ -33,7 +33,15 @@ The `URL` field should be one of the following:
 * **Atom Feed URL:** Porter uses the following for its stable plugins: `https://cdn.porter.sh/plugin/atom.xml`
 * **Download URL:** Directory where binaries are hosted, such as GitHub releases: `https://github.com/org/project/releases/download`
 
-To ensure proper formatting of the edited list, `make test` can be run.
+To ensure proper formatting of the edited list, `make test` can be run. This will:
+- Validate that the JSON is well-formed
+- Validate that the list conforms to the [JSON Schema](schema.json)
+
+The schema validates that each package entry has:
+- `name` (required, non-empty string)
+- `author` (required, non-empty string)
+- `description` (required, non-empty string)
+- `URL` (required, non-empty string starting with http:// or https://)
 
 When ready, open up a pull request with the updated directory.  Once merged,
 your mixin or plugin listing will be broadcast to the world!
