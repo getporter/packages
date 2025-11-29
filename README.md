@@ -1,5 +1,7 @@
 # Porter Packages
 
+[![Test](https://github.com/getporter/packages/actions/workflows/test.yml/badge.svg)](https://github.com/getporter/packages/actions/workflows/test.yml)
+
 This repository contains package listings for mixins and plugins available for Porter, including those created by the community.
 The lists are consumed by the [Porter CLI](https://porter.sh/install) when returning results for `porter mixins search` and `porter plugins search`.
 
