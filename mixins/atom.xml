@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Mixins</title>
-    <updated>2025-12-11T22:08:54Z</updated>
+    <updated>2025-12-11T22:09:26Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -20,6 +20,25 @@
     <category term="kubernetes"/>
     <category term="terraform"/>
     <category term="tofu"/>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/kubernetes/v1.0.4</id>
+        <title>kubernetes @ v1.0.4</title>
+        <updated>2025-12-11T22:09:26Z</updated>
+        <category term="kubernetes"/>
+        <content>v1.0.4</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.4/kubernetes-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.4/kubernetes-darwin-amd64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.4/kubernetes-darwin-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.4/kubernetes-darwin-arm64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.4/kubernetes-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.4/kubernetes-linux-amd64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.4/kubernetes-linux-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.4/kubernetes-linux-arm64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.4/kubernetes-windows-amd64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.4/kubernetes-windows-amd64.exe.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.4/kubernetes-windows-arm64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/v1.0.4/kubernetes-windows-arm64.exe.sha256sum" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/docker-compose/v1.0.4</id>
         <title>docker-compose @ v1.0.4</title>
