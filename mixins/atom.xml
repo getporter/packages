@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Mixins</title>
-    <updated>2025-12-11T22:09:26Z</updated>
+    <updated>2025-12-11T22:12:36Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -20,6 +20,25 @@
     <category term="kubernetes"/>
     <category term="terraform"/>
     <category term="tofu"/>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/gcloud/v1.0.4</id>
+        <title>gcloud @ v1.0.4</title>
+        <updated>2025-12-11T22:12:36Z</updated>
+        <category term="gcloud"/>
+        <content>v1.0.4</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v1.0.4/gcloud-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v1.0.4/gcloud-darwin-amd64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v1.0.4/gcloud-darwin-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v1.0.4/gcloud-darwin-arm64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v1.0.4/gcloud-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v1.0.4/gcloud-linux-amd64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v1.0.4/gcloud-linux-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v1.0.4/gcloud-linux-arm64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v1.0.4/gcloud-windows-amd64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v1.0.4/gcloud-windows-amd64.exe.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v1.0.4/gcloud-windows-arm64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/v1.0.4/gcloud-windows-arm64.exe.sha256sum" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/kubernetes/v1.0.4</id>
         <title>kubernetes @ v1.0.4</title>
