@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Mixins</title>
-    <updated>2025-12-11T22:08:18Z</updated>
+    <updated>2025-12-11T22:08:31Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -20,6 +20,25 @@
     <category term="kubernetes"/>
     <category term="terraform"/>
     <category term="tofu"/>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/terraform/v1.0.7</id>
+        <title>terraform @ v1.0.7</title>
+        <updated>2025-12-11T22:08:31Z</updated>
+        <category term="terraform"/>
+        <content>v1.0.7</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v1.0.7/terraform-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v1.0.7/terraform-darwin-amd64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v1.0.7/terraform-darwin-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v1.0.7/terraform-darwin-arm64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v1.0.7/terraform-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v1.0.7/terraform-linux-amd64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v1.0.7/terraform-linux-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v1.0.7/terraform-linux-arm64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v1.0.7/terraform-windows-amd64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v1.0.7/terraform-windows-amd64.exe.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v1.0.7/terraform-windows-arm64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/terraform/v1.0.7/terraform-windows-arm64.exe.sha256sum" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/arm/v1.0.4</id>
         <title>arm @ v1.0.4</title>
