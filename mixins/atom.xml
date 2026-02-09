@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Mixins</title>
-    <updated>2026-02-09T20:17:55Z</updated>
+    <updated>2026-02-09T20:18:18Z</updated>
     <link rel="self" href="https://cdn.porter.sh/mixins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -20,6 +20,19 @@
     <category term="kubernetes"/>
     <category term="terraform"/>
     <category term="tofu"/>
+    <entry>
+        <id>https://cdn.porter.sh/mixins/az/canary</id>
+        <title>az @ canary</title>
+        <updated>2026-02-09T20:18:18Z</updated>
+        <category term="az"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-windows-amd64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-darwin-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-linux-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-windows-arm64.exe" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/terraform/canary</id>
         <title>terraform @ canary</title>
@@ -143,19 +156,6 @@
         <link rel="download" href="https://cdn.porter.sh/mixins/tofu/canary/tofu-linux-arm64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/tofu/canary/tofu-windows-amd64.exe" />
         <link rel="download" href="https://cdn.porter.sh/mixins/tofu/canary/tofu-windows-arm64.exe" />
-    </entry>
-    <entry>
-        <id>https://cdn.porter.sh/mixins/az/canary</id>
-        <title>az @ canary</title>
-        <updated>2026-01-13T21:55:17Z</updated>
-        <category term="az"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-windows-amd64.exe" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-darwin-arm64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-linux-arm64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-windows-arm64.exe" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/terraform/v1.0.8</id>
