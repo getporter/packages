@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Plugins</title>
-    <updated>2026-07-14T20:54:23Z</updated>
+    <updated>2026-07-22T12:27:58Z</updated>
     <link rel="self" href="https://cdn.porter.sh/plugins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -10,6 +10,25 @@
     <category term="aws"/>
     <category term="azure"/>
     <category term="kubernetes"/>
+    <entry>
+        <id>https://cdn.porter.sh/plugins/azure/canary</id>
+        <title>azure @ canary</title>
+        <updated>2026-07-22T12:27:58Z</updated>
+        <category term="azure"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-windows-amd64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-darwin-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-linux-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-windows-arm64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-darwin-amd64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-darwin-arm64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-linux-amd64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-linux-arm64.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-windows-amd64.exe.sha256sum" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-windows-arm64.exe.sha256sum" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/plugins/aws/v0.1.2</id>
         <title>aws @ v0.1.2</title>
@@ -47,25 +66,6 @@
         <link rel="download" href="https://cdn.porter.sh/plugins/azure/v1.2.5/azure-windows-amd64.exe.sha256sum" />
         <link rel="download" href="https://cdn.porter.sh/plugins/azure/v1.2.5/azure-windows-arm64.exe" />
         <link rel="download" href="https://cdn.porter.sh/plugins/azure/v1.2.5/azure-windows-arm64.exe.sha256sum" />
-    </entry>
-    <entry>
-        <id>https://cdn.porter.sh/plugins/azure/canary</id>
-        <title>azure @ canary</title>
-        <updated>2026-07-14T20:21:20Z</updated>
-        <category term="azure"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-windows-amd64.exe" />
-        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-darwin-arm64" />
-        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-linux-arm64" />
-        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-windows-arm64.exe" />
-        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-darwin-amd64.sha256sum" />
-        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-darwin-arm64.sha256sum" />
-        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-linux-amd64.sha256sum" />
-        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-linux-arm64.sha256sum" />
-        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-windows-amd64.exe.sha256sum" />
-        <link rel="download" href="https://cdn.porter.sh/plugins/azure/canary/azure-windows-arm64.exe.sha256sum" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/plugins/aws/canary</id>
