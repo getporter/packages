@@ -21,6 +21,19 @@
     <category term="terraform"/>
     <category term="tofu"/>
     <entry>
+        <id>https://cdn.porter.sh/mixins/gcloud/canary</id>
+        <title>gcloud @ canary</title>
+        <updated>2026-08-10T08:56:00Z</updated>
+        <category term="gcloud"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-windows-amd64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-darwin-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-linux-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-windows-arm64.exe" />
+    </entry>
+    <entry>
         <id>https://cdn.porter.sh/mixins/terraform/canary</id>
         <title>terraform @ canary</title>
         <updated>2026-08-10T08:56:00Z</updated>
@@ -103,19 +116,6 @@
         <link rel="download" href="https://cdn.porter.sh/mixins/az/v1.0.9/az-windows-amd64.exe.sha256sum" />
         <link rel="download" href="https://cdn.porter.sh/mixins/az/v1.0.9/az-windows-arm64.exe" />
         <link rel="download" href="https://cdn.porter.sh/mixins/az/v1.0.9/az-windows-arm64.exe.sha256sum" />
-    </entry>
-    <entry>
-        <id>https://cdn.porter.sh/mixins/gcloud/canary</id>
-        <title>gcloud @ canary</title>
-        <updated>2026-07-25T22:03:44Z</updated>
-        <category term="gcloud"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-windows-amd64.exe" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-darwin-arm64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-linux-arm64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/gcloud/canary/gcloud-windows-arm64.exe" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/docker/v1.0.6</id>
