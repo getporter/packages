@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porter.sh</id>
     <title>Porter Plugins</title>
-    <updated>2026-07-25T22:02:56Z</updated>
+    <updated>2026-08-10T08:57:17Z</updated>
     <link rel="self" href="https://cdn.porter.sh/plugins/atom.xml"/>
     <author>
         <name>Porter Authors</name>
@@ -10,6 +10,19 @@
     <category term="aws"/>
     <category term="azure"/>
     <category term="kubernetes"/>
+    <entry>
+        <id>https://cdn.porter.sh/plugins/aws/canary</id>
+        <title>aws @ canary</title>
+        <updated>2026-08-10T08:57:17Z</updated>
+        <category term="aws"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/plugins/aws/canary/aws-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/aws/canary/aws-darwin-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/aws/canary/aws-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/aws/canary/aws-linux-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/aws/canary/aws-windows-amd64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/plugins/aws/canary/aws-windows-arm64.exe" />
+    </entry>
     <entry>
         <id>https://cdn.porter.sh/plugins/azure/v1.2.6</id>
         <title>azure @ v1.2.6</title>
@@ -47,19 +60,6 @@
         <link rel="download" href="https://cdn.porter.sh/plugins/aws/v0.1.3/aws-windows-amd64.exe.sha256sum" />
         <link rel="download" href="https://cdn.porter.sh/plugins/aws/v0.1.3/aws-windows-arm64.exe" />
         <link rel="download" href="https://cdn.porter.sh/plugins/aws/v0.1.3/aws-windows-arm64.exe.sha256sum" />
-    </entry>
-    <entry>
-        <id>https://cdn.porter.sh/plugins/aws/canary</id>
-        <title>aws @ canary</title>
-        <updated>2026-07-22T12:31:40Z</updated>
-        <category term="aws"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/plugins/aws/canary/aws-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/plugins/aws/canary/aws-darwin-arm64" />
-        <link rel="download" href="https://cdn.porter.sh/plugins/aws/canary/aws-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/plugins/aws/canary/aws-linux-arm64" />
-        <link rel="download" href="https://cdn.porter.sh/plugins/aws/canary/aws-windows-amd64.exe" />
-        <link rel="download" href="https://cdn.porter.sh/plugins/aws/canary/aws-windows-arm64.exe" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/plugins/azure/canary</id>
