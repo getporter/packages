@@ -34,6 +34,19 @@
         <link rel="download" href="https://cdn.porter.sh/mixins/kubernetes/canary/kubernetes-windows-arm64.exe" />
     </entry>
     <entry>
+        <id>https://cdn.porter.sh/mixins/az/canary</id>
+        <title>az @ canary</title>
+        <updated>2026-09-09T09:04:25Z</updated>
+        <category term="az"/>
+        <content>canary</content>
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-darwin-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-linux-amd64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-windows-amd64.exe" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-darwin-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-linux-arm64" />
+        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-windows-arm64.exe" />
+    </entry>
+    <entry>
         <id>https://cdn.porter.sh/mixins/gcloud/canary</id>
         <title>gcloud @ canary</title>
         <updated>2026-09-09T09:03:25Z</updated>
@@ -130,19 +143,6 @@
         <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-darwin-arm64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-linux-arm64" />
         <link rel="download" href="https://cdn.porter.sh/mixins/arm/canary/arm-windows-arm64.exe" />
-    </entry>
-    <entry>
-        <id>https://cdn.porter.sh/mixins/az/canary</id>
-        <title>az @ canary</title>
-        <updated>2026-09-03T13:25:55Z</updated>
-        <category term="az"/>
-        <content>canary</content>
-        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-darwin-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-linux-amd64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-windows-amd64.exe" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-darwin-arm64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-linux-arm64" />
-        <link rel="download" href="https://cdn.porter.sh/mixins/az/canary/az-windows-arm64.exe" />
     </entry>
     <entry>
         <id>https://cdn.porter.sh/mixins/docker/canary</id>
